@@ -129,6 +129,10 @@ a.pd-social {
 nav.pd-nav a {
   display: inline-block;
 }
+nav.pd-nav a:hover {
+  text-decoration: none;
+  color: #be1e2d !important;
+}
 .pd-site-header,
 .pd-hero {
   background: #f4f9fc;
