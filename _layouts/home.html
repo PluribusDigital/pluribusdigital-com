@@ -1,0 +1,79 @@
+---
+layout: default
+---
+
+<section class="container pt-3">
+  <h2 style="margin-bottom: -1rem;">Impactful Missions</h2>
+
+  {%- include component_icon_list.html 
+      icon_path="img/art/uscis-icon.svg"
+      icon_alt="Statue of Liberty Icon"
+      title="USCIS"
+      text='Modernize the products that drive the in-person interactions related to
+      applying for citizenship and other immigration benefits . This makes the
+      “welcome” to citizenship a more friendly, accurate, and secure process.' -%}
+
+  {%- include component_icon_list.html 
+      icon_path="img/art/fdic-icon.svg"
+      icon_alt="Bank Building Icon"
+      title="FDIC"
+      text='Publish open data and make that data useful to diverse users through modern APIs and visual browser applications. This provides general transparency, but also makes better data available to the kinds of industry analysts who can help to avoid or reduce impacts of financial crises.' -%}
+
+  {%- include component_icon_list.html 
+      icon_path="img/art/gsa-icon.svg"
+      icon_alt="Shield with Padlock Icon"
+      title="GSA"
+      text='Support the growth of Login.gov, a shared identity provider giving citizens and those interacting with government a consistent means to login that incorporates current security best practices.' -%}
+
+</section>
+
+<div class="pd-highlight">
+    <section class="container text-center pb-5 pt-4">
+      <h2>Modern Product Development Practices</h2>
+      <p class="text-center">
+        We are hands-on digital services consultants–part technologists, part
+        change agents. <br />
+        We enable our partners to focus on their missions.
+      </p>
+
+      <div class="row mx-auto">
+
+        {%- include component_icon_card.html 
+            icon_path="img/art/design-icon.svg"
+            icon_alt="icon with pencil and ruler"
+            title="Design"
+            text='Create best in class user experiences using approaches like human centered design, design thinking and service design.'
+            corner="dkred" -%}
+        
+        {%- include component_icon_card.html 
+            icon_path="img/art/development-icon.svg"
+            icon_alt="icon with computer and code"
+            title="Development"
+            text='Build and support software using modern development practices like agile and open source software.'
+            corner="orange" -%}
+
+        {%- include component_icon_card.html 
+            icon_path="img/art/data-icon.svg"
+            icon_alt="icon with database cylinder"
+            title="Data"
+            text='Manage data as a first-class asset to support analytics and open data sharing.' 
+            corner="blue" -%}
+        
+        {%- include component_icon_card.html 
+            icon_path="img/art/devsecops-icon.svg"
+            icon_alt="icon with gear surrounded by cycle arrows"
+            title="DevSecOps"
+            text='Collaborate across silos to automate compliance and deliver frequently.'
+            corner="red" -%}
+           
+      </div>
+
+      <a href="{{site.baseurl}}content/work" class="btn btn-danger mt-5">Our Work</a>
+
+    </section>
+  </div>
+
+
+{%- include component_join_us.html -%}
+
+{{content}}

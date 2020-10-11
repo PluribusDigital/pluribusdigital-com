@@ -1,0 +1,30 @@
+<div class="col-lg-6 px-0 mb-4 p-md-3">
+  <div class="card pd-icon-card pd-corner-{{include.corner}} mt-4">
+    <div class="card-body text-left p-0 px-md-5 py-md-4">
+      <div class="d-md-flex text-center pd-icon-card-title">
+        <div class="my-auto pr-3" >
+          <img
+            src="{{site.baseurl}}{{include.icon_path}}"
+            style="height: 100px; width: 100px"
+            alt="{{include.icon_alt}}" 
+          />
+        </div>
+        <div class="my-auto" >
+          <h3 class="card-title my-2 my-md-auto">
+            {{include.title}}
+          </h3>
+        </div>
+      </div>
+      <p class="card-text mt-0 mt-md-2">
+        {{include.text}}
+      </p>
+      {% if include.link != null %}
+        <div class="text-center mt-3">
+          <a href="{{site.baseurl}}{{include.link}}">
+            {{include.title}} Details
+          </a>
+        </div>
+      {% endif %}
+    </div>
+  </div>
+</div> 

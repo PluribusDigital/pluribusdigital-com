@@ -1,0 +1,33 @@
+{% if include.section.icons.size <= 4 }
+  {% assign colwidth = 12/include.section.icons.size %}
+{% else %}
+  {% assign colwidth = 4 %}
+{% endif %}
+
+
+<section class="container pd-section" id="{{include.section.title | slugify}}">
+
+  <h2 class="{%if include.section.title_align == 'left' %}text-left{%endif%}">{{include.section.title | escape}} </h2>
+
+  <div class="row">
+    {% for icon in include.section.icons %} 
+      <div class="col col-md-{{colwidth}} text-center py-3">
+        {% if icon.link != null %}
+        <a href="{{site.baseurl}}{{icon.link}}">
+        {% endif %}
+        <img src="{{site.baseurl}}{{icon.img}}" alt="{{icon.title}}" style="max-width: 150px; max-height: 150px">
+        <div class="pt-1">
+          <strong>
+              {{icon.title}}
+          </strong>
+        </div>
+        {% if icon.link != null %}
+        </a>
+        {% endif %}
+      </div>
+    {% endfor %}
+  </div>
+
+  {{include.section.content | markdownify}}
+
+</section>

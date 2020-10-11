@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+{% comment %} This template is for a single page. {% endcomment %}
+
+<section class="container py-4 py-md-5">
+  {% if page.lead_text %}
+  <p class="lead mt-0">
+    <strong>
+    {{page.lead_text}}
+    </strong>
+  </p>
+  {% endif %}
+  {{ content }} 
+</section>
+
+{% comment %} - Parse out the dir name for this page -
+Loop through all site content - Find all child sections by finding all
+pages in the same directory that aren't 'index' - Rener each section
+within the page per the correct template {% endcomment %} 
+{% assign this_filename = page.relative_path | split: "/" | last %} 
+{% assign this_dir = page.relative_path | remove: this_filename %} 
+{% for content_section in site.content %} 
+  {% assign filename = content_section.relative_path | split: "/" | last %} 
+  {% assign dir = content_section.relative_path | remove: filename %} 
+  {% if filename != 'index.md' and dir == this_dir %} 
+    {% include section.html section=content_section %} 
+  {% endif %} 
+{% endfor %}
+
+{% if page.include_join_us %}
+  {%- include component_join_us.html -%}
+{% endif %}

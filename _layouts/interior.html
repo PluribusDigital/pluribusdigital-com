@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+{% comment %} This template is for a single page. {% endcomment %}
+
+<section class="container py-4 pd-interior">
+  {% if page.lead_text %}
+  <p class="lead mt-0">
+    <strong>
+    {{page.lead_text}}
+    </strong>
+  </p>
+  {% endif %}
+  {{ content }} 
+</section>

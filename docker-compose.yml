@@ -1,0 +1,16 @@
+# Adapted from https://kristofclaes.github.io/2016/06/19/running-jekyll-locally-with-docker/
+# Switched to local Dockerfile build to enable some js (purgecss)
+# Note: dropped 'pages' tag on image because it had a build error
+
+version: '3'
+
+services: 
+
+    jekyll:
+        build: .
+        command: bash start.sh
+        ports:
+            - 4000:4000
+            - 35729:35729
+        volumes:
+            - .:/srv/jekyll

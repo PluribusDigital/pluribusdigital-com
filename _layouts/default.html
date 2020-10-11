@@ -1,0 +1,36 @@
+{% comment %} This is used for just about every page. It provides the border
+around the content. The home page uses wide.html layout, since it extends full
+width of page {% endcomment %}
+
+<!DOCTYPE html>
+<html lang="en">
+  <!-- 
+  Hi there...  
+  If you're peeking at the source code, 
+  perhaps you'd be interested in a job.
+  Please do check out the "Join Us" page!
+-->
+  <head>
+    <title>{{page.title}} | Pluribus Digital</title>
+    {% include template_meta.html %}
+  </head>
+
+  <body>
+    <a class="sr-only sr-only-focusable" href="#main-content"
+      >Skip to main content</a
+    >
+
+    {% include template_header.html %}
+
+    <main id="main-content">
+      {% if page.hero %} 
+        {% include component_hero.html %} 
+      {% else %}
+        {% include template_title.html %}
+      {% endif %} 
+      {{ content }}
+    </main>
+
+    {% include template_footer.html %}
+  </body>
+</html>

@@ -1,0 +1,5 @@
+{% assign partial = "section_base.html" %}
+{% if include.section.style %}
+  {% assign partial = "section_" | append: include.section.style | append: ".html" %}
+{% endif %}
+{%- include {{partial}} section=include.section -%}

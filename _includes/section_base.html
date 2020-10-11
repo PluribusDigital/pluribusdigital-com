@@ -1,0 +1,7 @@
+<section class="{{include.section.css_class}} container py-5 py-md-5 " id="{{include.section.title | slugify}}" style="{{include.section.css_style}}">
+  
+  <h2 class="{%if include.section.title_align == 'left' %}text-left{%endif%} mt-0">{{include.section.title | escape}}</h2>
+
+  {{include.section.content | markdownify}}
+
+</section>
