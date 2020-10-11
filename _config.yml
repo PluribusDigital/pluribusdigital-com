@@ -17,7 +17,7 @@ title: Pluribus Digital
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Government digital services transformation.
-baseurl: /hamster/
+baseurl: /
 url: "https://pluribusdigital.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
