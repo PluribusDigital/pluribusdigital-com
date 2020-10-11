@@ -11,13 +11,13 @@ Chief Information Officer–Solutions and Partners 3 Small Business (CIO-SP3 SB)
 
 Although managed by NIH, the CIO-SP3 Small Business vehicle is not limited to Health IT initiatives; agencies can purchase a wide range of services across ten task areas to meet health, scientific, administrative, operational, managerial, and information management requirements. The goal of the contract is to provide government agencies the ability to quickly solicit and purchase needed IT solutions and services at reasonable prices.
 
-As a CIO-SP3 Small Business contract holder, STSI went through a comprehensive screening process, including review of technical capabilities, past performance, and price. STSI is an awardee in the restricted (Small Business Category) and is qualified in all 10 Task Areas.
+As a CIO-SP3 Small Business contract holder, Pluribus Digital went through a comprehensive screening process, including review of technical capabilities, past performance, and price. Pluribus Digital is an awardee in the restricted (Small Business Category) and is qualified in all 10 Task Areas.
 
 Visit the [NITAAC CIO-SP3 Small Business website](https://nitaac.nih.gov/services/cio-sp3-small-business) for more.
 
 ## Contract Information
 
-### CIO-SP3 SB Contract Details for STSI
+### CIO-SP3 SB Contract Details for Pluribus Digital
 
 | | |
 | :--- | :--- |
@@ -30,7 +30,7 @@ Visit the [NITAAC CIO-SP3 Small Business website](https://nitaac.nih.gov/service
 
 ### Awarded Task Areas 
 
-STSI is eligible to perform work in all task areas, including: 
+Pluribus Digital is eligible to perform work in all task areas, including: 
 * _Task Area 1:_ IT Services for Biomedical Research, Health Sciences, and Healthcare 
 * _Task Area 2:_ Chief Information officer (CIO) Support 
 * _Task Area 3:_ Imaging 
@@ -45,7 +45,7 @@ STSI is eligible to perform work in all task areas, including:
 ### CIO-SP3 Small Business Labor Rates
 
 {% include component_download_button.html
-text="STSI CIO-SP3 Small business Labor rates (PDF)"
+text="CIO-SP3 Small business Labor rates (PDF)"
 path="files/75N98120D00076-SOLUTION-TECHNOLOGY-SYSTEMS-INC_-Labor-Rates.pdf" %}
 
 ### Contract Documents
@@ -53,7 +53,7 @@ path="files/75N98120D00076-SOLUTION-TECHNOLOGY-SYSTEMS-INC_-Labor-Rates.pdf" %}
 _Contract Number:_ 75N98120D00076 
 
 {% include component_download_button.html
-text="STSI’s CIO-SP3 SB Awarded GWAC Standard Form 26 (PDF)"
+text="CIO-SP3 SB Awarded GWAC Standard Form 26 (PDF)"
 path="files/75N98120D00076-SOLUTION-TECHOLOGY-SYSTEMS-INC_-SF-26.pdf" %}
 
 {% include component_download_button.html
@@ -62,6 +62,6 @@ path="files/CIO-SP3_Contract_Conformed_June_2018_0.pdf" %}
 
 ### Contact Us
 
-_POC:_ Ben Morris, STSI Program Manager for CIO-SP3 Contract <br />
+_POC:_ Ben Morris, Pluribus Digital Program Manager for CIO-SP3 Contract <br />
 _Phone:_  703-522-2696 <br />
-_Email:_ [cio-sp3@stsiinc.com](mailto:cio-sp3@stsiinc.com)
+_Email:_ [cio-sp3@pluribusdigital.com](mailto:cio-sp3@pluribusdigital.com)

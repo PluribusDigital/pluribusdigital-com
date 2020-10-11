@@ -17,9 +17,9 @@ text='We apply agile software development approaches that integrate user-centere
 {%- include component_icon_list.html 
 icon_path="img/art/data-icon.svg"
 title="Data"
-text='When government agencies make data available to citizens, it promotes accountability and enables innovative applications of that data (such as GPS). Agencies have a great deal of data, but it is locked up within applications and behind the firewall. STSI employs open data best practices to unlock that data for public use while maintaining rigorous controls over sensitive information. We build the APIs and other tools to make data available in open standard formats, such as JSON and XML.' -%}
+text='When government agencies make data available to citizens, it promotes accountability and enables innovative applications of that data (such as GPS). Agencies have a great deal of data, but it is locked up within applications and behind the firewall. Pluribus employs open data best practices to unlock that data for public use while maintaining rigorous controls over sensitive information. We build the APIs and other tools to make data available in open standard formats, such as JSON and XML.' -%}
 
 {%- include component_icon_list.html 
 icon_path="img/art/devsecops-icon.svg"
 title="DevSecOps"
-text='Many agencies struggle to realize the agile vision – an IT delivery model that rapidly adapts to changing demands. After adopting an agile methodology, technical delivery constraints still get in the way of productivity. STSI bridges this gap with DevOps support services. We build the central capability for agencies to support the entire development capability, including continuous integration, continuous deployment, automated testing, code quality scans, and configuration management.' -%}
+text='Many agencies struggle to realize the agile vision – an IT delivery model that rapidly adapts to changing demands. After adopting an agile methodology, technical delivery constraints still get in the way of productivity. Pluribus bridges this gap with DevOps support services. We build the central capability for agencies to support the entire development capability, including continuous integration, continuous deployment, automated testing, code quality scans, and configuration management.' -%}
