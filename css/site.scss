@@ -26,7 +26,7 @@ h2 {
   font-weight: bold;
   text-align: center;
   padding-bottom: 1rem;
-  background-image: url("{{site.baseurl}}img/template/h-underline.png");
+  background-image: url("/img/template/h-underline.png");
   background-repeat: no-repeat;
   background-position: center bottom;
   margin-bottom: 1rem;
@@ -107,7 +107,7 @@ a.pd-social {
 .pd-bold-highlight {
   background-color: #00adee;
   color: #fff;
-  background-image: url({{site.baseurl}}img/template/bold-bg.png);
+  background-image: url(/img/template/bold-bg.png);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -190,24 +190,24 @@ nav.pd-nav a {
     position: absolute;
     top: 0px;
     left: 0px;
-    background: url({{site.baseurl}}img/template/corner-dkred.svg) no-repeat 100%;
+    background: url(/img/template/corner-dkred.svg) no-repeat 100%;
     width: 60px;
     height: 60px;
   }
   .pd-corner-dkblue:after {
-    background: url({{site.baseurl}}img/template/corner-dkblue.svg) no-repeat 100%;
+    background: url(/img/template/corner-dkblue.svg) no-repeat 100%;
   }
   .pd-corner-blue:after {
-    background: url({{site.baseurl}}img/template/corner-blue.svg) no-repeat 100%;
+    background: url(/img/template/corner-blue.svg) no-repeat 100%;
   }
   .pd-corner-orange:after {
-    background: url({{site.baseurl}}img/template/corner-orange.svg) no-repeat 100%;
+    background: url(/img/template/corner-orange.svg) no-repeat 100%;
   }
   .pd-corner-red:after {
-    background: url({{site.baseurl}}img/template/corner-red.svg) no-repeat 100%;
+    background: url(/img/template/corner-red.svg) no-repeat 100%;
   }
   .pd-corner-ltblue:after {
-    background: url({{site.baseurl}}img/template/corner-ltblue.svg) no-repeat 100%;
+    background: url(/img/template/corner-ltblue.svg) no-repeat 100%;
   }
 }
 

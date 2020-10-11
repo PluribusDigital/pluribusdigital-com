@@ -6,13 +6,13 @@
           {{page.hero.primary_text}}
         </h1>
         {% if page.hero.button_path != null and page.hero.button_text != null %}
-        <a href="{{site.baseurl}}{{page.hero.button_path}}" class="btn btn-danger mt-4">
+        <a href="/{{page.hero.button_path}}" class="btn btn-danger mt-4">
           {{page.hero.button_text}}
         </a>
         {% endif %}
       </div>
       <div class="col-md-6 pb-0 text-center my-auto">
-        <img src="{{site.baseurl}}{{page.hero.img_path}}" class="pd-hero-img {{page.hero.img_classes}}" alt="{{page.hero.img_alt}}" />
+        <img src="/{{page.hero.img_path}}" class="pd-hero-img {{page.hero.img_classes}}" alt="{{page.hero.img_alt}}" />
       </div>
     </div>
   </div>

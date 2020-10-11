@@ -11,17 +11,17 @@ Pluribus engages in communities that help the government technology and contract
 <div class="row mb-4 text-center">
   <div class="col-12 col-md-4 my-3 my-md-auto">
     <a href="https://digitalservicescoalition.org/">
-      <img src="{{site.baseurl}}img/dsc-logo.png" alt="Digital Services Coalition" class="pd-image-grid">
+      <img src="/img/dsc-logo.png" alt="Digital Services Coalition" class="pd-image-grid">
     </a>
   </div>
   <div class="col-6 col-md-4 my-3 my-md-auto">
     <a href="https://www.agilegovleaders.org/">
-      <img src="{{site.baseurl}}img/agl-logo.png" alt="Agile Government Leaders" class="pd-image-grid">
+      <img src="/img/agl-logo.png" alt="Agile Government Leaders" class="pd-image-grid">
     </a>
   </div>
   <div class="col-6 col-md-4 my-3 my-md-auto">
     <a href="https://www.gtscoalition.com/">
-      <img src="{{site.baseurl}}img/gtsc-logo.png" alt="Government Technology & Services Coalition" class="pd-image-grid">
+      <img src="/img/gtsc-logo.png" alt="Government Technology & Services Coalition" class="pd-image-grid">
     </a>
   </div>
 </div>

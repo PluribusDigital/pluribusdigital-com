@@ -57,7 +57,7 @@ Reference the appropriate file in `_includes/template_meta.html`, using the `css
 
 ```html
 <link
-  href="{{site.baseurl}}css/vendor/bootstrap.min.css"
+  href="/css/vendor/bootstrap.min.css"
   rel="stylesheet"
 />
 ```

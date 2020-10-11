@@ -4,7 +4,7 @@
       <div class="d-md-flex text-center pd-icon-card-title">
         <div class="my-auto pr-3" >
           <img
-            src="{{site.baseurl}}{{include.icon_path}}"
+            src="/{{include.icon_path}}"
             style="height: 100px; width: 100px"
             alt="{{include.icon_alt}}" 
           />
@@ -20,7 +20,7 @@
       </p>
       {% if include.link != null %}
         <div class="text-center mt-3">
-          <a href="{{site.baseurl}}{{include.link}}">
+          <a href="/{{include.link}}">
             {{include.title}} Details
           </a>
         </div>

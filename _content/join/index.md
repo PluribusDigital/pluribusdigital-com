@@ -8,6 +8,6 @@ hero:
   img_path: img/art/join-us.svg
 ---
 
-Do impactful work in an environment that values your growth and your life outside of work. Find your calling. Explore [our principles]({{site.baseurl}}content/story#principles-in-action), [our work]({{site.baseurl}}content/work), and [our team]({{site.baseurl}}content/story#hq-team) to get a feel if Pluribus is a fit for you.
+Do impactful work in an environment that values your growth and your life outside of work. Find your calling. Explore [our principles](/content/story#principles-in-action), [our work](/content/work), and [our team](/content/story#hq-team) to get a feel if Pluribus is a fit for you.
 
 Join a calm company. We are knowledge workers. People do their best work when they aren’t rushed by crazy deadlines or drained by a culture of face time and workaholism. By having confidence in our people, we can get more done at better quality. If a real crunch time comes, we aren’t already stretched to the limit. 

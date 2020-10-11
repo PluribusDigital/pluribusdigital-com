@@ -17,5 +17,5 @@ icons:
 ---
 
 <div class="text-center mt-4 mb-5">
-<a href="{{site.baseurl}}content/join/benefits" class="btn btn-primary">Detailed Benefits Information</a>
+<a href="/content/join/benefits" class="btn btn-primary">Detailed Benefits Information</a>
 </div>
