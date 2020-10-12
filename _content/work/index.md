@@ -2,6 +2,7 @@
 layout: content
 title: Our Work
 nav_highlight: work
+permalink: work
 lead_text: We build modern digital products for public service missions.
 include_join_us: true
 hero:

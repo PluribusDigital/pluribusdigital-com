@@ -1,19 +1,38 @@
-# HamsterCo Web Site
+# PluribusDigital.com Public Web Site
 
 ## Creating Content
 
-Add folders and files within the `pages` folder.
+There are 3 types of content stored in different directories:
+
+* `_content/*.md` (with underscore) holds complex top-level pages. These pages are built in sections (each file in the respective subfolder) in order to take advantage of different layouts for each section.
+
+* `content/*.md` (without underscore) holds simple interior pages. The directory structure here will be mirrored in the path/URL to the rendered page.
+
+* `/index.md` and `layouts/home.html` control the home page content.
+
+### Markdown Content Format
+
+Content pages have the `.md` markdown file extension. This allows us to write simple content as markdown, but we can also mix in HTML if warranted.
 
 Note, pages must have the "YAML front-matter" data at the top of the page. It sounds complicated, but copy/paste an existing page to start. The YAML looks like:
 
 ```bash
 ---
-layout: page  # Which page layout to use
-title: About  # Title to display (e.g. in navigation link)
-permalink: /about/ # Customize how the URL will look
+layout: interior # Which page layout to use
+title: Benefits # Title to display (e.g. at top of page)
+nav_highlight: join # The top nav link that should be highlighted, if applicable
+permalink: join/benefits # Optionally supply an alternative path for the generated page
+include_join_us: true
 ---
 
-... the actual content ...
+## My Subheading
+
+Some example content followed by a:
+
+* bulleted
+* list
+
+... more content...
 
 ```
 
@@ -44,6 +63,11 @@ See [jekyll docs](https://jekyllrb.com/) for more detail, but the TLDR is:
 * `bundle install`
 * `bundle install jekyll serve -l --watch`
 
+We also have a convenience script to run the server:
+
+```bash
+bash start.sh
+```
 
 ## CSS
 

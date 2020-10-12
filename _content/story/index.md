@@ -2,6 +2,7 @@
 layout: content
 title: Our Story
 nav_highlight: story
+permalink: story
 lead_text: Pluribus represents both the “many” we serve, and the many diverse skills and backgrounds brought together to provide those services.
 include_join_us: true
 hero:
