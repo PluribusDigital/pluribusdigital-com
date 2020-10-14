@@ -40,7 +40,7 @@ style: highlight
 
 {% include component_image_card.html
   title="Victoria<br />Guido"
-  subtitle="VP Operations"
+  subtitle="VP of Operations"
   corner="blue"
   img_url="img/team/victoria.jpg"
   blurb="Victoria makes sure our internal operations run like a well-oiled machine, and to pull out a wrench if it doesn't. She makes sure employees are engaged, informed, and supported. She helps us connect with technical communities and otherwise gets out the message that government deserves great technical talent."
@@ -48,7 +48,7 @@ style: highlight
 
 {% include component_image_card.html
   title="Robbie<br />Holmes"
-  subtitle="VP Product Development"
+  subtitle="VP of Product Development"
   corner="red"
   img_url="img/team/robbie.jpg"
   blurb="Robbie helps us grow our practices and culture associated with creating software products. He support our consultants and teams as they improve their methods. Externally, Robbie uses his voice to amplify our mission and support technical communities. Robbie brings a background spanning government (USDS, New York State) and commercial (Sony Music, Google) in addition to his skills as chef and barista."
@@ -56,7 +56,7 @@ style: highlight
 
 {% include component_image_card.html
   title="Halai<br />Shukran"
-  subtitle="Director, Talent"
+  subtitle="Director of Talent"
   corner="ltblue"
   img_url="img/team/halai.jpg"
   blurb=""
@@ -64,7 +64,7 @@ style: highlight
 
 {% include component_image_card.html
   title="Vishal<br />Iyer"
-  subtitle="Director, Product Design"
+  subtitle="Director of Product Design"
   corner="orange"
   img_url="img/team/vishal.jpg"
   blurb=""
