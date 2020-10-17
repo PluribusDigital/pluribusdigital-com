@@ -15,7 +15,7 @@ corner="ltblue" -%}
 {%- include component_icon_card.html 
 icon_path="img/benefits-icons/diversity.svg"
 title="Diversity & Inclusion"
-text='Diversity makes us stronger. Our company and indsutry can always do better, which is why we publicly share our statistics on progress toward diversity goals.'
+text='Diversity makes us stronger. Our company and industry can always do better, which is why we publicly share our statistics on progress toward diversity goals.'
 link="content/story/diversity"
 corner="orange" -%}
 
