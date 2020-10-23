@@ -3,17 +3,17 @@ title: Benefits
 style: icongrid
 icons:
   - title: Training & Development
-    img: img/benefits-icons/training.svg
+    img: img/art/training-development-icon.svg
   - title: 401k Match
-    img: img/benefits-icons/401k.svg
+    img: img/art/401k-icon.svg
   - title: Work/Life Flexibility
-    img: img/benefits-icons/flexibility.svg
+    img: img/art/work-life-flexibility-icon.svg
   - title: Robust Healthcare Options
-    img: img/benefits-icons/healthcare.svg
+    img: img/art/healthcare-icon.svg
   - title: Modern Tech Tools
-    img: img/benefits-icons/techtools.svg
+    img: img/art/tech-tools-icon.svg
   - title: Family-friendly Events
-    img: img/benefits-icons/events.svg
+    img: img/art/family-friendly-events-icon.svg
 ---
 
 <div class="text-center mt-4 mb-5">
