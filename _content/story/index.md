@@ -12,7 +12,7 @@ hero:
 
 <div class="text-center mt-3" style="font-size: 2.5em;">
 
-<strong>plur&#8226;i&#8226;bus dig&#8226;​i&#8226;​tal</strong><br/>
+<strong><span class='text-nowrap'>plur&#8226;i&#8226;bus</span> <span class='text-nowrap'>dig&#8226;​i&#8226;​tal</span></strong><br/>
 
 <audio controls>
   <source src="/files/PluribusDigital.mp3" type="audio/mpeg">
