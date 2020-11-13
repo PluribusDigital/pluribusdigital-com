@@ -18,6 +18,8 @@ There are 3 types of content stored in different directories:
 
 * `/index.md` and `layouts/home.html` control the home page content.
 
+* __Blog__ content is hosted via Medium.com. Additional detail is in the below section.
+
 ### Easy vs. Hard Changes
 
 Simple content updates, or even creating simple interior pages can be done with no HTML or Jekyll knowledge. 
@@ -110,3 +112,37 @@ Reference the appropriate file in `_includes/template_meta.html`, using the `css
 
 * Install/use node `12.18.x` (simply `nvm use` if running nvm)
 * Install purgecss `npm i -g purgecss`
+
+## Blog Content
+
+To contribute blog content, you need to setup an account and be associated as an author for the Pluribus "publication." Then you can draft and submit stories.
+
+### Medium Account & Association
+
+1. Create an account at Medium.com
+2. Add appropriate profile info including a photo
+3. Provide your Medium username to an editor to be added to the publication. There are two roles in medium:
+    * `writer`: writes articles, but can't publish them 
+    * `editor`: can edit submitted articles and publish, as well as add other users
+
+### Writing & Submitting Articles
+
+1. Login to medium.com
+2. Select your profile image at the top-right of the screen
+3. Select **New Story** from the menu
+4. Begin to draft the article (see conventions below)
+5. At some point before publishing
+    * select the **ellipses (...)** next to the *Publish* button
+    * select **Add to Publication**
+    * select **PluribusDigital**
+    * **Select and Continue**
+6. **Submit** the article
+7. Let an editor know that the article is available for review & publishing
+
+### Blog Conventions
+
+* Keep writing tone and style consistent with the brand voice, with content that reflects well on the brand
+* Target an appropriate length - generally working to trim length and get to the point - but varies by type of post (a technical article may be different than a news update)
+* Include at least one image that can make a good "cover" image
+* Include descriptive alt text for all images
+* Make good use of headings and other techniques to make content readable and scannable
