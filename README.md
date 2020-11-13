@@ -141,7 +141,7 @@ To contribute blog content, you need to setup an account and be associated as an
 
 ### Blog Conventions
 
-* Keep writing tone and style consistent with the brand voice, with content that reflects well on the brand
+* Keep writing tone and style consistent with the [brand voice](https://github.com/PluribusDigital/playbook/blob/main/branding/guide.md), with content that reflects well on the brand
 * Target an appropriate length - generally working to trim length and get to the point - but varies by type of post (a technical article may be different than a news update)
 * Include at least one image that can make a good "cover" image
 * Include descriptive alt text for all images
