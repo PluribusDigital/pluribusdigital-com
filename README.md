@@ -1,5 +1,13 @@
 # PluribusDigital.com Public Web Site
 
+## Contributing
+
+* Create a branch (or a fork)
+* Make your changes, commit to the branch
+* Create a Pull Request (PR)
+
+_Note: the `main` branch is protected and can only be updated via PR._
+
 ## Creating Content
 
 There are 3 types of content stored in different directories:
@@ -9,6 +17,14 @@ There are 3 types of content stored in different directories:
 * `content/*.md` (without underscore) holds simple interior pages. The directory structure here will be mirrored in the path/URL to the rendered page.
 
 * `/index.md` and `layouts/home.html` control the home page content.
+
+### Easy vs. Hard Changes
+
+Simple content updates, or even creating simple interior pages can be done with no HTML or Jekyll knowledge. 
+
+For advanced contributers creating more complex changes and formatting, please keep in mind:
+* Run the app locally to get a full preview of changes as rendered.
+* See the CSS section to re-run the purge commands, which is particularly important if you want to make use of bootstrap CSS that is not yet in use on the site.
 
 ### Markdown Content Format
 
@@ -40,20 +56,6 @@ Some example content followed by a:
 
 Content can be edited directly in GitHub. To do more complex work such as changing templates, styles, etc. you can run locally on the desktop.
 
-### Running With Docker
-
-Make sure [Docker is installed](https://www.docker.com/products/docker-desktop).
-
-```bash
-docker-compose up
-```
-
-The app should now be available at: http://localhost:4000/
-
-_Note: if you set the `baseurl` in `_config.yml`, the home page will be at that path, e.g http://localhost:4000/hamster/ ._
-
-If you change config, you must restart.
-
 ### Running Without Docker
 
 See [jekyll docs](https://jekyllrb.com/) for more detail, but the TLDR is:
@@ -68,6 +70,24 @@ We also have a convenience script to run the server:
 ```bash
 bash start.sh
 ```
+
+It is recommended that you use version managers for node and ruby - e.g. RVM, NVM.
+
+### Running With Docker
+
+_Your mileage may vary... the Docker approach has had mixed results, and any PR to iron this out would be appreciated._
+
+Make sure [Docker is installed](https://www.docker.com/products/docker-desktop).
+
+```bash
+docker-compose up
+```
+
+The app should now be available at: http://localhost:4000/
+
+_Note: if you set the `baseurl` in `_config.yml`, the home page will be at that path, e.g http://localhost:4000/hamster/ ._
+
+If you change config, you must restart.
 
 ## CSS
 
