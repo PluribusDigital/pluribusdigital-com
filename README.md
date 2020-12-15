@@ -141,7 +141,7 @@ To contribute blog content, you need to setup an account and be associated as an
 
 ### Blog Conventions
 
-* Keep writing tone and style consistent with the brand voice, with content that reflects well on the brand
+* Keep writing tone and style consistent with the [brand voice](https://github.com/PluribusDigital/playbook/blob/main/branding/guide.md), with content that reflects well on the brand
 * Target an appropriate length - generally working to trim length and get to the point - but varies by type of post (a technical article may be different than a news update)
 * Include at least one image that can make a good "cover" image
 * Include descriptive alt text for all images
@@ -157,3 +157,7 @@ Our job board is integrated in two places:
 ### Custom CSS for Greenhouse
 
 The file `css/greenhouse.css` contains custom CSS additions for the contents of the greenhouse iframe. In the greenhouse configuration, you can either point to a URL for the file, or upload directly. So far we've uploaded directly, but just verify on the greenhouse config if it is not working as desired.
+
+## Web Analytics
+
+We use [Google Analytics](https://analytics.google.com/) to gather site traffic data. Contact the helpdesk to be added as appropriate.
