@@ -2,6 +2,7 @@
 layout: interior
 title: Openings
 include_join_us: false
+permalink: /join/openings
 ---
 
 <div id="grnhse_app"></div>
