@@ -12,94 +12,94 @@ path="files/2016-STSI-Commercial-Labor-Categories-10-10.pdf" %}
 
 ## Commercial Price List
 
-_Commercial Price List 01/01/2020 – 12/31/2020_
+_Commercial Price List 01/01/2021 – 12/31/2021_
 
 | Labor Category                                  |  On-Site | Off-Site |
 | :---------------------------------------------- | -------: | -------: |
-| Agile Test Engineer I                           |  \$79.48 |  \$83.46 |
-| Agile Test Engineer II                          |  \$81.68 |  \$85.76 |
-| Agile Test Engineer III                         |  \$87.21 |  \$91.56 |
-| Agile Test Engineer IV                          |  \$92.72 |  \$97.36 |
-| Analyst I                                       | \$108.94 | \$114.40 |
-| Analyst II                                      | \$149.53 | \$157.02 |
-| Analyst III                                     | \$188.44 | \$197.87 |
-| BI Specialist I                                 | \$104.87 | \$110.11 |
-| BI Specialist II                                | \$126.95 | \$133.28 |
-| BI Specialist III                               | \$140.74 | \$147.77 |
-| BI Specialist IV                                | \$184.35 | \$193.55 |
-| Business Analyst I                              | \$129.12 | \$135.59 |
-| Business Analyst II                             | \$140.35 | \$147.37 |
-| Business Consultant I                           |  \$93.83 |  \$98.51 |
-| Business Consultant II                          | \$115.91 | \$121.71 |
-| Business Consultant III                         | \$133.57 | \$140.25 |
-| Business Consultant IV                          | \$153.98 | \$161.68 |
-| Configuration Management Specialist I           | \$119.04 | \$125.00 |
-| Configuration Management Specialist II          | \$133.75 | \$140.44 |
-| Database Administrator                          | \$113.85 | \$119.55 |
-| Database Specialist I                           | \$163.76 | \$171.94 |
-| Database Specialist II                          | \$167.70 | \$177.11 |
-| Database Specialist III                         | \$188.75 | \$198.19 |
-| Designer I                                      |  \$93.83 |  \$98.51 |
-| Designer II                                     | \$104.87 | \$110.11 |
-| Designer III                                    | \$115.91 | \$121.71 |
-| Designer IV                                     | \$126.95 | \$133.28 |
-| Developer I                                     |  \$87.58 |  \$91.95 |
-| Developer II                                    | \$132.09 | \$138.69 |
-| Developer III                                   | \$134.66 | \$141.39 |
-| DevOps Engineer I                               | \$149.02 | \$156.46 |
-| DevOps Engineer II                              | \$165.54 | \$173.83 |
-| DevOps Engineer III                             | \$195.24 | \$205.01 |
-| Documentation Specialist I                      |  \$68.24 |  \$71.68 |
-| Documentation Specialist II                     |  \$84.27 |  \$88.48 |
-| Documentation Specialist III                    | \$101.21 | \$106.26 |
-| Enterprise Resource Planning (ERP) Developer I  | \$205.06 | \$215.30 |
-| Enterprise Resource Planning (ERP) Engineer I   | \$164.25 | \$172.46 |
-| Enterprise Resource Planning (ERP) Engineer II  | \$200.80 | \$210.83 |
-| Enterprise Resource Planning (ERP) Engineer III | \$235.07 | \$246.82 |
-| Information Engineer I                          | \$124.38 | \$130.61 |
-| Information Engineer II                         | \$140.53 | \$147.57 |
-| IT Consultant I                                 | \$171.88 | \$180.48 |
-| IT Consultant II                                | \$250.99 | \$263.55 |
-| IT Consultant III                               | \$281.79 | \$295.88 |
-| Network Engineer I                              | \$163.95 | \$172.15 |
-| Network Engineer II                             | \$193.36 | \$203.02 |
-| Program Manager I                               | \$178.21 | \$187.09 |
-| Program Manager II                              | \$213.43 | \$224.10 |
-| Program Manager III                             | \$347.70 | \$365.09 |
-| Programmer Analyst I                            |  \$88.06 |  \$92.47 |
-| Programmer Analyst II                           | \$111.49 | \$117.08 |
-| Programmer Analyst III                          | \$149.10 | \$156.55 |
-| Programmer Analyst IV                           | \$174.98 | \$183.74 |
-| Project Manager I                               | \$170.66 | \$179.19 |
-| Project Manager II                              | \$308.21 | \$323.61 |
-| Project Manager III                             | \$353.25 | \$370.91 |
-| Security Specialist I                           | \$130.59 | \$137.11 |
-| Security Specialist II                          | \$162.04 | \$170.14 |
-| Security Specialist III                         | \$166.18 | \$174.49 |
-| Solutions Architect I                           | \$167.45 | \$175.83 |
-| Solutions Architect II                          | \$174.46 | \$183.18 |
-| Solutions Architect III                         | \$184.68 | \$193.92 |
-| Subject Matter Expert I                         | \$164.23 | \$172.44 |
-| Subject Matter Expert II                        | \$180.65 | \$189.68 |
-| Systems Analyst I                               | \$132.09 | \$138.69 |
-| Systems Analyst II                              | \$138.93 | \$145.87 |
-| Systems Analyst III                             | \$162.09 | \$170.21 |
-| Task Manager I                                  | \$133.54 | \$140.22 |
-| Task Manager II                                 | \$172.75 | \$181.39 |
-| Test Specialist I                               |  \$72.10 |  \$75.70 |
-| Test Specialist II                              | \$102.15 | \$107.27 |
-| Test Specialist III                             | \$132.03 | \$138.62 |
-| Test Specialist IV                              | \$150.20 | \$157.71 |
-| Test Specialist V                               | \$162.32 | \$170.45 |
-| UCD Specialist I                                | \$132.46 | \$139.08 |
-| UCD Specialist II                               | \$165.57 | \$173.86 |
-| UCD Specialist III                              | \$201.56 | \$211.63 |
-| UCD Specialist IV                               | \$203.50 | \$213.68 |
-| UX/UI Developer I                               |  \$93.83 |  \$98.51 |
-| UX/UI Developer II                              | \$123.63 | \$129.81 |
-| UX/UI Developer III                             | \$137.98 | \$144.87 |
-| UX/UI Developer IV                              | \$154.54 | \$162.27 |
-| Web Specialist I                                | \$100.45 | \$105.47 |
-| Web Specialist II                               | \$121.42 | \$127.49 |
-| Web Specialist III                              | \$136.88 | \$143.73 |
-| Web Specialist IV                               | \$150.12 | \$157.62 |
+| Agile Test Engineer I                           |  \$81.47 |  \$85.55 |
+| Agile Test Engineer II                          |  \$83.72 |  \$87.90 |
+| Agile Test Engineer III                         |  \$89.39 |  \$93.85 |
+| Agile Test Engineer IV                          |  \$95.04 |  \$99.79 |
+| Analyst I                                       | \$111.66 | \$117.26 |
+| Analyst II                                      | \$153.27 | \$160.95 |
+| Analyst III                                     | \$193.15 | \$202.82 |
+| BI Specialist I                                 | \$107.49 | \$112.86 |
+| BI Specialist II                                | \$130.12 | \$136.61 |
+| BI Specialist III                               | \$144.26 | \$151.46 |
+| BI Specialist IV                                | \$188.96 | \$198.39 |
+| Business Analyst I                              | \$132.35 | \$138.98 |
+| Business Analyst II                             | \$143.86 | \$151.05 |
+| Business Consultant I                           |  \$96.18 | \$100.97 |
+| Business Consultant II                          | \$118.81 | \$124.75 |
+| Business Consultant III                         | \$136.91 | \$143.76 |
+| Business Consultant IV                          | \$157.83 | \$165.72 |
+| Configuration Management Specialist I           | \$122.02 | \$128.13 |
+| Configuration Management Specialist II          | \$137.09 | \$143.95 |
+| Database Administrator                          | \$116.70 | \$122.54 |
+| Database Specialist I                           | \$167.85 | \$176.24 |
+| Database Specialist II                          | \$171.89 | \$180.51 |
+| Database Specialist III                         | \$193.47 | \$203.14 |
+| Designer I                                      |  \$96.18 | \$100.97 |
+| Designer II                                     | \$107.49 | \$112.86 |
+| Designer III                                    | \$118.81 | \$124.75 |
+| Designer IV                                     | \$130.12 | \$136.61 |
+| Developer I                                     |  \$89.77 |  \$94.25 |
+| Developer II                                    | \$135.39 | \$142.16 |
+| Developer III                                   | \$138.03 | \$144.92 |
+| DevOps Engineer I                               | \$152.75 | \$160.37 |
+| DevOps Engineer II                              | \$169.68 | \$178.18 |
+| DevOps Engineer III                             | \$200.12 | \$210.14 |
+| Documentation Specialist I                      |  \$69.95 |  \$73.47 |
+| Documentation Specialist II                     |  \$86.38 |  \$90.69 |
+| Documentation Specialist III                    | \$103.74 | \$108.92 |
+| Enterprise Resource Planning (ERP) Developer I  | \$210.19 | \$220.68 |
+| Enterprise Resource Planning (ERP) Engineer I   | \$168.36 | \$176.77 |
+| Enterprise Resource Planning (ERP) Engineer II  | \$205.82 | \$216.10 |
+| Enterprise Resource Planning (ERP) Engineer III | \$240.95 | \$252.99 |
+| Information Engineer I                          | \$127.49 | \$133.88 |
+| Information Engineer II                         | \$144.04 | \$151.26 |
+| IT Consultant I                                 | \$176.18 | \$184.99 |
+| IT Consultant II                                | \$257.26 | \$270.14 |
+| IT Consultant III                               | \$288.83 | \$303.28 |
+| Network Engineer I                              | \$168.05 | \$176.45 |
+| Network Engineer II                             | \$198.19 | \$208.10 |
+| Program Manager I                               | \$182.67 | \$191.77 |
+| Program Manager II                              | \$218.77 | \$229.70 |
+| Program Manager III                             | \$356.39 | \$374.22 |
+| Programmer Analyst I                            |  \$90.26 |  \$94.78 |
+| Programmer Analyst II                           | \$114.28 | \$120.01 |
+| Programmer Analyst III                          | \$152.83 | \$160.46 |
+| Programmer Analyst IV                           | \$179.35 | \$188.33 |
+| Project Manager I                               | \$174.93 | \$183.67 |
+| Project Manager II                              | \$315.92 | \$331.70 |
+| Project Manager III                             | \$362.08 | \$380.18 |
+| Security Specialist I                           | \$133.85 | \$140.54 |
+| Security Specialist II                          | \$166.09 | \$174.39 |
+| Security Specialist III                         | \$170.33 | \$178.85 |
+| Solutions Architect I                           | \$171.64 | \$180.23 |
+| Solutions Architect II                          | \$178.82 | \$187.76 |
+| Solutions Architect III                         | \$189.30 | \$198.77 |
+| Subject Matter Expert I                         | \$168.34 | \$176.75 |
+| Subject Matter Expert II                        | \$185.17 | \$194.42 |
+| Systems Analyst I                               | \$135.39 | \$142.16 |
+| Systems Analyst II                              | \$142.40 | \$149.52 |
+| Systems Analyst III                             | \$166.14 | \$174.47 |
+| Task Manager I                                  | \$136.88 | \$143.73 |
+| Task Manager II                                 | \$177.07 | \$185.92 |
+| Test Specialist I                               |  \$73.90 |  \$77.59 |
+| Test Specialist II                              | \$104.70 | \$109.95 |
+| Test Specialist III                             | \$135.33 | \$142.09 |
+| Test Specialist IV                              | \$153.96 | \$161.65 |
+| Test Specialist V                               | \$166.38 | \$174.71 |
+| UCD Specialist I                                | \$135.77 | \$142.56 |
+| UCD Specialist II                               | \$169.71 | \$178.21 |
+| UCD Specialist III                              | \$206.60 | \$216.92 |
+| UCD Specialist IV                               | \$208.59 | \$219.02 |
+| UX/UI Developer I                               |  \$96.18 | \$100.97 |
+| UX/UI Developer II                              | \$126.72 | \$133.06 |
+| UX/UI Developer III                             | \$141.43 | \$148.49 |
+| UX/UI Developer IV                              | \$158.40 | \$166.33 |
+| Web Specialist I                                | \$102.96 | \$108.11 |
+| Web Specialist II                               | \$124.46 | \$130.68 |
+| Web Specialist III                              | \$140.30 | \$147.32 |
+| Web Specialist IV                               | \$153.87 | \$161.56 |
