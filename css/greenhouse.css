@@ -1,6 +1,31 @@
-div#main div#wrapper div#logo {display: none;}
-h1 {display: none;}
-h2#board_title {display: none;}
-body, div.opening a {font-size: 20px !important;}
-div#main {padding: 0px;}
-h1.app-title {display: block;}
+div#main div#wrapper div#logo {
+  display: none;
+}
+h1 {
+  display: none;
+}
+h2#board_title {
+  display: none;
+}
+body,
+div.opening a {
+  font-size: 20px !important;
+  font-family: "Roboto", sans-serif;
+  line-height: 30px !important;
+}
+.accessible #content {
+  line-height: 30px !important;
+}
+div#main {
+  padding: 0px;
+}
+h1.app-title {
+  display: block;
+  line-height: 40px;
+}
+div#header {
+  padding-right: 0px;
+}
+div#app_body {
+  padding-left: 0px !important;
+}
