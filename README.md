@@ -8,6 +8,8 @@
 
 _Note: the `main` branch is protected and can only be updated via PR._
 
+Once merged into the main branch, the updated production website will go live within about a minute.
+
 ## Creating Content
 
 There are 3 types of content stored in different directories:
