@@ -7,12 +7,12 @@ include_join_us: true
 ## Detailed Benefits Information
 
 Pluribus Digital provides a competitive benefits package in order to attract top talent. Benefits are available to full-time employees on the first of the month following date of hire. A summary of benefits follows. Benefits are subject to change.
-Medical, Dental, and Vision Insurance
 
+* Medical, Dental, and Vision Insurance
 * Employees share in the premium cost for medical, dental, and vision insurance. The employee portion is deducted on a pretax basis.
 * Employees may choose from two Carefirst BCBS medical plans (PPO or HMO).
 * Dental insurance provides a wide array of coverage.
-* Vision insurance is through VSP.
+* Vision is through VSP.
 
 ### Health Savings Account
 
@@ -70,8 +70,4 @@ Medical, Dental, and Vision Insurance
 * Pluribus Digital reimburses costs for company-approved training, education courses and Pluribus Digital industry conferences.
 * Pluribus encourages employees to obtain technical certifications and will assist in covering incurred costs.
 
-### Corporate Sponsored Virginia 529 Plan
 
-* Pluribus Digital offers a corporate sponsored Virginia 529 plan. 529 plans provide everyone, regardless of income, a tax-advantaged education savings vehicle that allows for substantial contributions and considerable flexibility.
-* You set aside money in the 529 plan with after-tax dollars, but anything it earns is tax free as long as it is used for qualifying education expenses.
-* Because of the corporate sponsorship, you never pay a sales commission and benefit from funds with low operating expenses.
