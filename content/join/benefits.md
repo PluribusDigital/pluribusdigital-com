@@ -57,7 +57,7 @@ Pluribus Digital provides a competitive benefits package in order to attract top
 * The company provides long-term disability coverage for full-time employees at no cost to the employee.
 * Benefits continue up to age 65.
 
-### Profit Sharing / 401K Plan
+### 401K Plan
 
 * Eligible employees are able to enroll at the beginning of any month.
 * The 401(k) plan allows eligible employees to contribute on a pre or after tax basis (Roth), including catch up contributions for those individuals age 50 and over. Annual limits are set by the IRS.
