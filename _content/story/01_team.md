@@ -31,7 +31,7 @@ style: highlight
 %}
 
 {% include component_image_card.html
-  title="Brandy<br />Hays-Morrison"
+  title="Brandy<br />Hays Morrison"
   subtitle="VP of Strategic Growth"
   corner="dkred"
   img_url="img/team/brandy.jpg"
