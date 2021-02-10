@@ -115,6 +115,13 @@ Reference the appropriate file in `_includes/template_meta.html`, using the `css
 * Install/use node `12.18.x` (simply `nvm use` if running nvm)
 * Install purgecss `npm i -g purgecss`
 
+## Redirects
+
+We can do a client-side redirect by using the redirect template. To do so put a simple markdown file in the `/redirects/` folder. See the file `/redirects/cio-sp3` for an example.
+
+_An explanation of the approach is here: https://superdevresources.com/redirects-jekyll-github-pages/_
+
+
 ## Blog Content
 
 To contribute blog content, you need to setup an account and be associated as an author for the Pluribus "publication." Then you can draft and submit stories.
