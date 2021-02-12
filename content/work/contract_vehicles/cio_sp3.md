@@ -1,9 +1,9 @@
 ---
 layout: interior
-title: CIO-SP3
+title: CIO-SP3 SB
 ---
 
-## CIO-SP3 Small Business
+## CIO-SP3 Small Business <br /><small>Solution Technology Systems, Inc.</small>
 
 <img src="/img/ciosp3logo.png" class="float-right ml-5" />
 
@@ -54,11 +54,11 @@ _Contract Number:_ 75N98120D00076
 
 {% include component_download_button.html
 text="CIO-SP3 SB Awarded GWAC Standard Form 26 (PDF)"
-path="files/75N98120D00076-SOLUTION-TECHOLOGY-SYSTEMS-INC_-SF-26.pdf" %}
+path="files/75N98120D00076-SOLUTION-TECHNOLOGY-SYSTEMS-INC_-SF-26.pdf" %}
 
 {% include component_download_button.html
 text="Conformed Contract (PDF)"
-path="files/CIO-SP3_Contract_Conformed_June_2018_0.pdf" %}
+path="files/75N98120D00076-SOLUTION-TECHNOLOGY-SYSTEMS-INC_Conformed_Contract.pdf" %}
 
 ### Contact Us
 
