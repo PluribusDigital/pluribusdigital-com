@@ -3,7 +3,7 @@ layout: interior
 title: CIO-SP3 SB
 ---
 
-## CIO-SP3 Small Business <br /><small>Solution Technology Systems, Inc.</small>
+## CIO-SP3 Small Business <br /><small>Solution Technology Systems, Inc.<br />(DBA Pluribus Digital)</small>
 
 <img src="/img/ciosp3logo.png" class="float-right ml-5" />
 
@@ -62,6 +62,7 @@ path="files/75N98120D00076-SOLUTION-TECHNOLOGY-SYSTEMS-INC_Conformed_Contract.pd
 
 ### Contact Us
 
-_POC:_ Ben Morris, Solution Technology Systems, Inc. (DBA Pluribus Digital) Program Manager for CIO-SP3 Contract <br />
+_POC:_ Ben Morris, Solution Technology Systems, Inc. (DBA Pluribus Digital),<br /> Program Manager for CIO-SP3 Contract <br />
+_POC Email:_ [bmorris@stsiinc.com](mailto:bmorris@stsiinc.com)<br />
 _Phone:_  703-522-2696 <br />
 _Email:_ [cio-sp3@stsiinc.com](mailto:cio-sp3@stsiinc.com)
