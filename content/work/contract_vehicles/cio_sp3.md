@@ -11,7 +11,7 @@ Chief Information Officer–Solutions and Partners 3 Small Business (CIO-SP3 SB)
 
 Although managed by NIH, the CIO-SP3 Small Business vehicle is not limited to Health IT initiatives; agencies can purchase a wide range of services across ten task areas to meet health, scientific, administrative, operational, managerial, and information management requirements. The goal of the contract is to provide government agencies the ability to quickly solicit and purchase needed IT solutions and services at reasonable prices.
 
-As a CIO-SP3 Small Business contract holder, Solution Technology Systems, Inc. (doing busines as Pluribus Digital) went through a comprehensive screening process, including review of technical capabilities, past performance, and price. Solution Technology Systems, Inc. is an awardee in the restricted (Small Business Category) and is qualified in all 10 Task Areas.
+As a CIO-SP3 Small Business contract holder, Solution Technology Systems, Inc. (doing business as Pluribus Digital) went through a comprehensive screening process, including review of technical capabilities, past performance, and price. Solution Technology Systems, Inc. is an awardee in the restricted (Small Business Category) and is qualified in all 10 Task Areas.
 
 Visit the [NITAAC CIO-SP3 Small Business website](https://nitaac.nih.gov/services/cio-sp3-small-business) for more.
 
