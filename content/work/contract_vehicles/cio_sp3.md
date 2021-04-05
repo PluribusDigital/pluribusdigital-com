@@ -5,7 +5,7 @@ title: CIO-SP3 SB
 
 ## CIO-SP3 Small Business <br /><small>Solution Technology Systems, Inc.<br />(DBA Pluribus Digital)</small>
 
-<img src="/img/ciosp3logo.png" class="float-right ml-5" />
+<img src="/img/ciosp3logo.png" class="float-right ml-5" alt="Logos reading: NITAAC - Reimagining Acquisitions; and CIO-SP3 Small Business - IT Services/Solutions" />
 
 Chief Information Officer–Solutions and Partners 3 Small Business (CIO-SP3 SB) is a government-wide acquisition contract (GWAC). It is a 10-year indefinite delivery, indefinite quantity (IDIQ) contract managed by the National Institute of Health (NIH), National Information Technology Acquisitions and Assessment Center (NITAAC).
 
