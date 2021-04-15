@@ -1,14 +1,14 @@
 ---
 layout: interior
-title: GSA IT Schedule 70
+title: GSA MAS Schedule
 ---
 
-## Schedule 70 Information
+## GSA MAS Schedule
 
-_NOTE: Pluribus Digital originally did business as Solution Technology Systems, Inc. (STSI). Our Schedule 70 contract is still under the STSI name._
+_NOTE: Pluribus Digital originally did business as Solution Technology Systems, Inc. (STSI). Our GSA MAS Schedule contract is still under the STSI name._
 
 {% include component_download_button.html
-text="GSA 70 Customer Information (PDF)"
+text="GSA MAS Schedule Customer Information (PDF)"
 path="files/GS-35F-404DA_STSI2020GSAADVANTAGE404DA.pdf" %}
 
 STSI’s GSA Multiple Award Schedule Contract # GS-35F-404DA, awarded in 2016, enables us to offer federal government clients the following services:
@@ -40,7 +40,7 @@ STSI’s GSA Multiple Award Schedule Contract # GS-35F-404DA, awarded in 2016, e
 * 541990 – All Other Professional, Scientific, and Technical Services
 * 611420 – Computer Training
 
-## Schedule 70 Rates
+## GSA MAS Schedule Rates
 
 _STSI GSA Contract (GS-35F-404DA) Price List Effective 07/19/2020_
 
