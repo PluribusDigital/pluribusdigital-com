@@ -9,7 +9,7 @@ _NOTE: Pluribus Digital originally did business as Solution Technology Systems, 
 
 {% include component_download_button.html
 text="GSA MAS Schedule Customer Information (PDF)"
-path="files/GS-35F-404DA_STSI2020GSAADVANTAGE404DA.pdf" %}
+path="files/GSAMASGS35404DAPluribusDigital03302021.pdf" %}
 
 STSI’s GSA Multiple Award Schedule Contract # GS-35F-404DA, awarded in 2016, enables us to offer federal government clients the following services:
 
