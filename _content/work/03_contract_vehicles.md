@@ -6,7 +6,7 @@ title: Contract Vehicles
 
 {%- include component_icon_card.html 
 icon_path="img/GSAlogo.svg"
-title="GSA IT Schedule 70"
+title="GSA MAS Schedule"
 text='' 
 link="content/work/contract_vehicles/gsa_70"
 corner="" -%}
