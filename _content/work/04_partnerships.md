@@ -6,12 +6,7 @@ title: Partnerships & Certifications
 
 {%- include component_icon_card.html 
 title="Doric Gov Partnership"
-text='We are pleased to announce Doric Gov, a Joint Venture (JV) between Prady LLC (www.prady.com) and Pluribus Digital (www.pluribusdigital.com). The Small Business Administration (SBA) recently approved Doric Gov, LLC. into the SBA 8a program.  
-
-Prady is a customer experience strategy & digital design firm focused on helping commercial and startup clients. Prady combines deep Customer Experience expertise with agile delivery and cutting-edge technology development. Prady helps transform technology and build new products by combining design thinking, technology innovation and business strategy. 
-
-Pluribus Digital, formerly Solution Technology Systems, Inc. is a small, woman-owned digital services firm serving the federal government. Government services are becoming less about paper and manual processing and more about providing services as great digital products. Pluribus helps government organizations with this digital service transformation with hands-on services across development, design, DevOps, and data. 
-
+text='We are pleased to announce Doric Gov, a Joint Venture (JV) between Prady LLC (www.prady.com) and Pluribus Digital (www.pluribusdigital.com). The Small Business Administration (SBA) recently approved Doric Gov, LLC. into the SBA 8a program.
 Together, we offer a complete human-centered design and agile product development capability' 
 link="http://www.doricgov.com/"
 corner="" -%}
