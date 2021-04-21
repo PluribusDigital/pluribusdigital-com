@@ -6,9 +6,9 @@ title: Partnerships & Certifications
 
 {%- include component_icon_list.html 
 icon_path="img/art/doricgov.png"
-title="Doric Gov Partnership"
+title="<a href='http://www.doricgov.com/'>Doric Gov Partnership</a>"
 text='We are pleased to announce Doric Gov, a Joint Venture (JV) between Prady LLC (www.prady.com) and Pluribus Digital (www.pluribusdigital.com). The Small Business Administration (SBA) recently approved Doric Gov, LLC. into the SBA 8a program.
-Together, we offer a complete human-centered design and agile product development capability.' <a href="http://www.doricgov.com/">'www.doricgov.com'</a>  
+Together, we offer a complete human-centered design and agile product development capability.' 
 -%}
 </div>
 
