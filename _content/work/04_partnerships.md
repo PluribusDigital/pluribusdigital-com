@@ -8,11 +8,9 @@ We are pleased to announce Doric Gov, a Joint Venture (JV) between Prady LLC (ww
 Together, we offer a complete human-centered design and agile product development capability.
 
 <div class="row mb-4 text-center">
-  <div class="col-12 col-md-4 my-3 my-md-auto">
     <a href="http://www.doricgov.com/">
       <img src="img/doricgov.png" alt="Doric Gov" class="pd-image-grid">
     </a>
-  </div>
 </div>
 
 <div class="row text-center mb-4">
