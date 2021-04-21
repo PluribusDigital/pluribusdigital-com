@@ -2,16 +2,7 @@
 title: Partnerships & Certifications
 ---
  
-### Doric Gov Partnership
 
-We are pleased to announce Doric Gov, a Joint Venture (JV) between Prady LLC (www.prady.com) and Pluribus Digital (www.pluribusdigital.com). The Small Business Administration (SBA) recently approved Doric Gov, LLC. into the SBA 8a program.
-Together, we offer a complete human-centered design and agile product development capability.
-
-<div class="row mb-4 text-center">
-    <a href="http://www.doricgov.com/">
-      <img src="img/doricgov.png" alt="Doric Gov" class="pd-image-grid">
-    </a>
-</div>
 
 <div class="row text-center mb-4">
   <div class="col-12 col-md-6 my-2 my-md-auto">
