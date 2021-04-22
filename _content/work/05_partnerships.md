@@ -20,9 +20,9 @@ title: Partnerships & Certifications
   <div class="col-12 col-md-4 my-2 my-md-auto">
     <img src="/img/partnerships/iso27001.png" alt="ISO 27001: Information Security Management" style="max-height: 150px;">
   </div>
-  <div class="col-12 col-md-4 my-2 my-md-auto">
+  <!-- <div class="col-12 col-md-4 my-2 my-md-auto">
     <img src="/img/partnerships/cmmi.png" alt="CMMI DEV/L3: CMMI DEV LEvel 3" style="max-height: 150px;">
-  </div>
+  </div> -->
 </div>
 <div class="row text-center mb-4">
   <div class="col-12 col-md-6 my-2 my-md-auto">
