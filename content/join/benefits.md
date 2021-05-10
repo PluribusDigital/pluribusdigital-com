@@ -42,12 +42,6 @@ Pluribus Digital provides a competitive benefits package in order to attract top
 * All full-time employees are covered for the amount of one times salary up to a maximum of $100,000.
 * Benefit reductions begin at age 65.
 
-### Paid Time Off
-
-* Full-time employees accrue paid time off (PTO) on a monthly basis. The accrued PTO is to be used at the employee’s discretion for time away from work (i.e., vacation days, sick days, to care for a sick child, doctor appointments, and holidays.) Pluribus does not offer a paid holiday schedule-you use PTO for holiday pay.
-* There is no limit on the amount of PTO that can be carried over.
-* Any earned and unused PTO hours are paid to employees when they leave the company.
-
 ### Short Term Disability Insurance
 
 * The company provides short-term disability coverage for full-time eligible employees at no cost to the employee.
@@ -57,6 +51,15 @@ Pluribus Digital provides a competitive benefits package in order to attract top
 * The company provides long-term disability coverage for full-time employees at no cost to the employee.
 * Benefits continue up to age 65.
 
+### Paid Time Off (Effective August 1, 2021)
+
+* Full-time employees accrue personal leave on a monthly basis (will accrue on a semi-monthly basis beginning January 1, 2022). The accrued personal leave is to be used at the employee’s discretion for time away from work (i.e., vacation days, personal days, etc.).  Any earned and unused personal leave hours are paid to employees when they leave the company.
+* At the beginning of each calendar year, employees will also be provided five (5) days of sick leave to be used to care for themselves or a family member.  Sick days will be prorated based on time of hire.  Any unused sick time at the end of each calendar year does not roll over into the new year and does not get paid out.
+* All federal holidays will be recognized by Pluribus Digital. In limited circumstances, each employee may be granted the option to float the paid holidays observed.
+* All FMLA-eligible, new parents will be granted 4 weeks of paid parental leave to be used within their leave period.
+* Pluribus Digital will pay for the first five (5) days per year for those that will need to take jury duty leave and/or military leave.
+
+
 ### 401K Plan
 
 * Eligible employees are able to enroll at the beginning of any month.
@@ -65,9 +68,12 @@ Pluribus Digital provides a competitive benefits package in order to attract top
 * 401(k) match is vested over a six-year period.
 * Eligibility requirements for employer match is a minimum of 1000 hours worked per year and employed with Pluribus on the last day of the plan year.
 
-### Training and Development Program
+### Professional Development Reimbursement
 
-* Pluribus Digital reimburses costs for company-approved training, education courses and Pluribus Digital industry conferences.
+* Pluribus Digital reimburses costs up to $500 annually for company-approved training, education courses, industry conferences, certifications and other eligible professional development expenses.  If needed, up to two days of overhead paid time will be provided to accommodate time needed for professional development.
 * Pluribus encourages employees to obtain technical certifications and will assist in covering incurred costs.
+
+### Home Office Reimbursement
+* Pluribus Digital will reimburse costs related to your home office setup (ergonomic equipment, peripherals, etc.) up to $200.
 
 
