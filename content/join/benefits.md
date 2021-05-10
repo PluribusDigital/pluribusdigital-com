@@ -74,6 +74,7 @@ Pluribus Digital provides a competitive benefits package in order to attract top
 * Pluribus encourages employees to obtain technical certifications and will assist in covering incurred costs.
 
 ### Home Office Reimbursement
+
 * Pluribus Digital will reimburse costs related to your home office setup (ergonomic equipment, peripherals, etc.) up to $200.
 
 
