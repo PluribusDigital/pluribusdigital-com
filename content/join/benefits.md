@@ -70,7 +70,7 @@ Pluribus Digital provides a competitive benefits package in order to attract top
 
 ### Professional Development Reimbursement
 
-* Pluribus Digital reimburses costs up to $500 annually for company-approved training, education courses, industry conferences, certifications and other eligible professional development expenses.  If needed, up to two days of overhead paid time will be provided to accommodate time needed for professional development.
+* Each Pluribus Digital employee has an annual allotment of $500 for company-approved training, education courses, industry conferences, certifications and other eligible professional development expenses.  If needed, up to two days of paid time will be provided to accommodate time needed for professional development.
 * Pluribus encourages employees to obtain technical certifications and will assist in covering incurred costs.
 
 ### Home Office Reimbursement
