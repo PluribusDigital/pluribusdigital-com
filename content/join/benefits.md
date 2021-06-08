@@ -10,7 +10,7 @@ Pluribus Digital provides a competitive benefits package in order to attract top
 
 * Medical, Dental, and Vision Insurance
 * Employees share in the premium cost for medical, dental, and vision insurance. The employee portion is deducted on a pretax basis.
-* Employees may choose from two Carefirst BCBS medical plans (PPO or HMO).
+* Employees may choose from two Carefirst BCBS medical plans (PPO or HMO) – benefit policies include treatment options for gender dysphoria.
 * Dental insurance provides a wide array of coverage.
 * Vision coverage is through VSP.
 
