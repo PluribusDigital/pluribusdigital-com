@@ -47,14 +47,6 @@ style: highlight
 %}
 
 {% include component_image_card.html
-  title="Robbie<br />Holmes"
-  subtitle="VP of Product Development"
-  corner="red"
-  img_url="img/team/robbie.jpg"
-  blurb="Robbie helps us grow our practices and culture associated with creating software products. He support our consultants and teams as they improve their methods. Externally, Robbie uses his voice to amplify our mission and support technical communities. Robbie brings a background spanning government (USDS, New York State) and commercial (Sony Music, Google) in addition to his skills as chef and barista."
-%}
-
-{% include component_image_card.html
   title="Halai<br />Shukran"
   subtitle="Director of Talent"
   corner="ltblue"
