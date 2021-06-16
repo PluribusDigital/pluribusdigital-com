@@ -13,6 +13,7 @@ Pluribus Digital provides a competitive benefits package in order to attract top
 * Employees may choose from two Carefirst BCBS medical plans (PPO or HMO).
 * Dental insurance provides a wide array of coverage.
 * Vision coverage is through VSP.
+* Medical policies include treatment options for gender dysphoria.
 
 ### Health Savings Account
 
