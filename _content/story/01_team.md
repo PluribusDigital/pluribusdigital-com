@@ -71,6 +71,14 @@ style: highlight
 %}
 
 {% include component_image_card.html
+  title="Onkar<br />Singh"
+  subtitle="Proposal Manager"
+  corner="orange"
+  img_url="img/team/pluribus-logo-notext-black-on-white-500x500.png"
+  blurb=""
+%}
+
+{% include component_image_card.html
   title="Kim<br />Kroll"
   subtitle="Sr. Finance Manager"
   corner="dkblue"
