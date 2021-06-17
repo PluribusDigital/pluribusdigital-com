@@ -9,10 +9,10 @@ include_join_us: true
 
 | | Pluribus | Tech Industry | US Pop. |
 | :--- | :---: | :---: | :---: |
-| Female | 36% | 36% | 51% |
-| Minority | 36% | 31% | 42% |
+| Female | 35% | 33% | 51% |
+| Minority | 44% | 31% | 42% |
 
 
-The data is from a survey of 53 employees in June/July 2020. Of Pluribus respondents, 4% chose “Undeclared” for gender and 19% chose “Undeclared” or didn’t answer for Race/Ethnicity.
+The data is from a survey of 52 employees in May 2021. Of Pluribus respondents, 2% chose “Undeclared” for gender and 15% chose “Undeclared” or didn’t answer for Race/Ethnicity.
 
 US population demographics benchmark data comes from the [US Census](https://www.census.gov/quickfacts/fact/table/US/IPE120218). Tech industry benchmarks come from the [EEOC](https://www.eeoc.gov/special-report/diversity-high-tech) and [CompTIA](https://www.comptia.org/content/research/diversity-in-the-high-tech-industry).
