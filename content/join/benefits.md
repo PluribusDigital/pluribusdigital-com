@@ -54,7 +54,7 @@ Pluribus Digital provides a competitive benefits package in order to attract top
 
 ### Paid Time Off (Effective August 1, 2021)
 
-* Full-time employees accrue personal leave on a monthly basis (will accrue on a semi-monthly basis beginning January 1, 2022). The accrued personal leave is to be used at the employee’s discretion for time away from work (i.e., vacation days, personal days, etc.).  Any earned and unused personal leave hours are paid to employees when they leave the company.
+* Regular, full-time employees accrue personal leave on a monthly basis (will accrue on a semi-monthly basis beginning January 1, 2022) and are eligible to accrue up to 15 days of personal leave in a calendar year. The accrued personal leave is to be used at the employee’s discretion for time away from work (i.e., vacation days, personal days, etc.).  Any earned and unused personal leave hours are paid to employees when they leave the company.
 * At the beginning of each calendar year, employees will also be provided five (5) days of sick leave to be used to care for themselves or a family member.  Sick days will be prorated based on time of hire.  Any unused sick time at the end of each calendar year does not roll over into the new year and does not get paid out.
 * All federal holidays will be recognized by Pluribus Digital. In limited circumstances, each employee may be granted the option to float the paid holidays observed.
 * All FMLA-eligible new parents will be granted 4 weeks of paid parental leave to be used within their leave period.
