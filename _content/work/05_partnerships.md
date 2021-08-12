@@ -9,6 +9,9 @@ title: Partnerships & Certifications
     <img src="/img/partnerships/aws.png" alt="AWS Consulting Partner" class="w-90">
   </div>
   <div class="col-12 col-md-6 my-2 my-md-auto">
+    <img src="/img/partnerships/WOSB certified.png" alt="Women Owned Small Business" class="w-90">
+  </div>
+  <div class="col-12 col-md-6 my-2 my-md-auto">
     <img src="/img/partnerships/ms-gold.png" alt="Microsoft Gold Partner, Software Development" class="w-90">
   </div>
   <div class="col-12 col-md-4 my-2 my-md-auto">
