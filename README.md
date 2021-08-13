@@ -134,6 +134,14 @@ To contribute blog content, you need to setup an account and be associated as an
     * `writer`: writes articles, but can't publish them 
     * `editor`: can edit submitted articles and publish, as well as add other users
 
+
+#### By-lines and "Editors" Account
+
+Medium attributes each story (the "by-line") to the author based on their account information. We have created an "editors" account when we want the article to be written as the company vs. an individual person. The guidance on using those is:
+
+* Use the individual account (`@jane_doe`) to write and submit the article when it is meant to be from that person. This could be a technical how-to, an individual perspective, or some other article where it makes sense to be from an individual.
+* Use the editors account (`@pluribusdigital_editors`) to write and submit the article when it makes more sense to be from the company generally. This could be news announcements, or some article with many authors or perspectives.
+
 ### Writing & Submitting Articles
 
 1. Login to medium.com
