@@ -42,7 +42,7 @@ Pluribus Digital’s GSA Multiple Award Schedule Contract # GS-35F-404DA, awarde
 
 ## GSA MAS Schedule Rates
 
-_STSI GSA Contract (GS-35F-404DA) Price List Effective 07/19/2021_
+_Pluribus Digital GSA Contract (GS-35F-404DA) Price List Effective 07/19/2021_
 
 | Labor Category | On-Site | Off-Site |
 | :--- | ---: | ---: |
