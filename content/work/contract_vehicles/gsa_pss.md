@@ -5,7 +5,7 @@ title: GSA Professional Services Schedule OO-CORP
 
 ## PSS Information
 
-_NOTE: Pluribus Digital originally did business as Solution Technology Systems, Inc. (STSI). Our PSS contract is still under the STSI name._
+_NOTE: Solution Technology Systems, Inc. (STSI) is doing business as Pluribus Digital. Our PSS contract is still under the STSI name._
 
 {% include component_download_button.html
 text="GSA PSS Customer Information (PDF)"
