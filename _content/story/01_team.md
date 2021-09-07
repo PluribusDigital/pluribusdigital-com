@@ -63,7 +63,7 @@ style: highlight
 %}
 
 {% include component_image_card.html
-  title="Jennifer<br />Hoover"
+  title="Jennifer<br />Dougherty"
   subtitle="DHS Digital Services Lead"
   corner="blue"
   img_url="img/team/jennh.jpg"
