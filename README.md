@@ -93,7 +93,14 @@ _Note: if you set the `baseurl` in `_config.yml`, the home page will be at that 
 
 If you change config, you must restart.
 
-## CSS
+## Styles & CSS
+
+The site uses bootstrap 4.x as the baseline set of styles, and many of the built in utilities. See the [bootstrap docs](https://getbootstrap.com/docs/4.6/getting-started/introduction/) for general documentation on the bootstrap CSS classes. Other customizaitons are reflected in:
+
+* `css/site.css` includes custom styles and overrides for our site.
+* `css/greenhouse.css` is a central place to store the file (which we can upload to greenhouse) that has some styling overrides for greenhouse defaults. This is used in iframes for our job listings.
+
+### Managing CSS
 
 To trim unused CSS, we can use purgecss. This allows us to only serve up the css classes that are really needed. This looks at the file in the `css/vendor/` directory, then writes a version into `css/build` that only includes css classess actually used in the code.
 
