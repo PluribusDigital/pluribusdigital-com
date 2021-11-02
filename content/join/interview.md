@@ -8,8 +8,8 @@ include_join_us: true
 
 Hiring people who are a great culture add and technical skill fit is hard. No interview structure is perfect. We strive to balance the following principles:
 
-* _Set a high bar for skills and aptitude._ We support important missions. The work demands a level of existing skill plus the aptitude and curiousity to learn.
-* _Seek culture add._ Great candidates will enrich our company culture, adding unique perspectives, knowlege, background, and skills. Any candidates must be comfortable working in a diverse and respectful environment.
+* _Set a high bar for skills and aptitude._ We support important missions. The work demands a level of existing skill plus the aptitude and curiosity to learn.
+* _Seek culture add._ Great candidates will enrich our company culture, adding unique perspectives, knowledge, background, and skills. Any candidates must be comfortable working in a diverse and respectful environment.
 * _Respect candidate's time._ It would be great to spend many hours and days in the process, but that's not feasible. We can't expect candidates to spend excessive time on homework (something short is OK). 
 * _Avoid/counteract bias._ Humans bring bias by default. We try our best to be conscious of any bias and counteract/check it.
 
