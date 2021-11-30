@@ -10,16 +10,16 @@ Pluribus Digital provides a competitive benefits package in order to attract top
 
 * Medical, Dental, and Vision Insurance
 * Employees share in the premium cost for medical, dental, and vision insurance. The employee portion is deducted on a pretax basis.
-* Employees may choose from two Carefirst BCBS medical plans (PPO or HMO).
-* Dental insurance provides a wide array of coverage.
+* Employees may choose from two Cigna medical plans (high deductible health plan – HDHP - with a health savings account or PPO).
+* Dental insurance provides a wide array of coverage through Principal.
 * Vision coverage is through VSP.
 * Medical policies include treatment options for gender dysphoria.
 
 ### Health Savings Account
 
-* If you choose to elect the HMO plan, which is a qualified high-deductible plan, you are automatically enrolled in the Health Savings Account (HSA).
+* If you choose to elect the High Deductible Health Plan (HDHP), you are automatically enrolled in the Health Savings Account (HSA).
 * You may use your HSA monies to reimburse you for qualified medical, prescription, dental and vision expenses incurred by you and your family.
-* Pluribus Digital will contribute to your HSA account on the first day of each calendar quarter.  The amount contributed is based on your coverage election.
+* Pluribus Digital will contribute to your HSA account on the first day of each calendar quarter.  The amount contributed is based on your coverage election (single or family).
 * You may also contribute on a pre-tax basis up to the maximum allowed by the IRS.
 * The monies in an HSA account are yours to keep even if you change jobs.  There is no use it or lose it rule-all amounts roll from year-to-year, and you can accumulate an unlimited balance.
 * A balance in excess of $1000 can be invested.  Earnings are tax free when used for qualified expenses.
@@ -52,7 +52,7 @@ Pluribus Digital provides a competitive benefits package in order to attract top
 * The company provides long-term disability coverage for full-time employees at no cost to the employee.
 * Benefits continue up to age 65.
 
-### Paid Time Off (Effective August 1, 2021)
+### Paid Time Off Effective August 1, 2021
 
 * Regular, full-time employees accrue personal leave on a monthly basis (will accrue on a semi-monthly basis beginning January 1, 2022) and are eligible to accrue up to 15 days of personal leave in a calendar year. The accrued personal leave is to be used at the employee’s discretion for time away from work (i.e., vacation days, personal days, etc.).  Any earned and unused personal leave hours are paid to employees when they leave the company.
 * At the beginning of each calendar year, employees will also be provided five (5) days of sick leave to be used to care for themselves or a family member.  Sick days will be prorated based on time of hire.  Any unused sick time at the end of each calendar year does not roll over into the new year and does not get paid out.
