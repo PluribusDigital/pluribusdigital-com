@@ -55,14 +55,6 @@ style: highlight
 %}
 
 {% include component_image_card.html
-  title="Vishal<br />Iyer"
-  subtitle="Director of Product Design"
-  corner="orange"
-  img_url="img/team/vishal.jpg"
-  blurb=""
-%}
-
-{% include component_image_card.html
   title="Jennifer<br />Dougherty"
   subtitle="DHS Digital Services Lead"
   corner="blue"
