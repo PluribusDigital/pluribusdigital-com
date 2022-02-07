@@ -6,10 +6,6 @@ include_join_us: false
 
 Pluribus Digital provides enterprise-level planning and analysis, full life-cycle software development, large-scale program management, architecture and high-level system design, database design and IT operations support to commercial enterprises. 
 
-[//]: # ({% include component_download_button.html)
-[//]: # (text="Commercial Labor Categories (PDF)")
-[//]: # (path="files/2016-STSI-Commercial-Labor-Categories-10-10.pdf" %})
-
 ## Commercial Price List
 
 _Commercial Price List 01/01/2022 – 12/31/2022_
