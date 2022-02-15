@@ -32,7 +32,11 @@ In a phone/video call, a hiring manager talks or similar discusses the position 
 
 ### Technical Evaluation
 
-At a time and place convenient to them, the candidate takes a short (< 2 hours) technical test. The test is _not_ a filter and all candidates that make this stage also go on to the following interview. The test is the starting point for the deeper dive interview discussion where candidates can explain thought processes and misunderstandings. (See additional notes below.)
+At a time and place convenient to them, the candidate takes a short (< 2 hours) technical test. The test is _not_ a filter and all candidates that make this stage also go on to the following interview. The test is the starting point for the deeper dive interview discussion where candidates can explain thought processes and misunderstandings. 
+
+The test and discussion format may work for many. However, if there is a better way to dive into your skills, you can opt for a different method. For example, you may have created other code that can be shared, or you may have a body of work such as blogs, conference talks, etc.
+
+(See additional notes below on our rationale.)
 
 ### Interview
 
