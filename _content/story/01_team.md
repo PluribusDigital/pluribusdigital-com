@@ -39,14 +39,6 @@ style: highlight
 %}
 
 {% include component_image_card.html
-  title="Victoria<br />Guido"
-  subtitle="VP of Operations"
-  corner="blue"
-  img_url="img/team/victoria.jpg"
-  blurb="Victoria makes sure our internal operations run like a well-oiled machine, and to pull out a wrench if it doesn't. She makes sure employees are engaged, informed, and supported. She helps us connect with technical communities and otherwise gets out the message that government deserves great technical talent."
-%}
-
-{% include component_image_card.html
   title="Halai<br />Shukran"
   subtitle="Director of Talent"
   corner="ltblue"
