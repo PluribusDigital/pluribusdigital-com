@@ -185,3 +185,6 @@ The file `css/greenhouse.css` contains custom CSS additions for the contents of 
 ## Web Analytics
 
 We use [Google Analytics](https://analytics.google.com/) to gather site traffic data. Contact the helpdesk to be added as appropriate.
+
+## Cncatact Us page
+See here: https://www.tendenci.com/help-files/how-update-google-map-embedded-your-webpage/
