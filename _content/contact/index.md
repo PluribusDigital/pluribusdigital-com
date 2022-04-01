@@ -7,7 +7,7 @@ permalink: contact
 
 {% include component_contact_map.html %}
 
-<div class="row mx-auto text-center">
+```<div class="row mx-auto text-center">
 
 {%- include component_icon_card.html 
 icon_path="img/art/public-transportation-icon.svg"
@@ -22,3 +22,4 @@ corner="ltblue"
 text='2 hour metered street parking is available nearby. Visitors may also purchase daily parking from the garage under our building. For GPS directions to the parking garage use: <address>1733 N Pierce St, Arlington, VA, 22209</address>' -%}
 
 </div>
+```
