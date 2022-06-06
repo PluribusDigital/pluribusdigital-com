@@ -108,13 +108,19 @@ a.pd-social {
 .pd-highlight {
   background: #f4f9fc;
 }
-.pd-bold-highlight {
+.pd-bold-highlight, .pd-bold-highlight-dark {
   background-color: #00adee;
   color: #fff;
   background-image: url(/img/template/bold-bg.png);
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+.pd-bold-highlight-dark {
+ background-image: none;
+ background-color: #0071bb;
+}
+
 @media (min-width: 1200px) {
   .container {
     width: 950px;
@@ -148,7 +154,6 @@ nav.pd-nav a:hover {
 }
 .pd-hero h1 small {
   font-weight: 700;
-  white-space: nowrap;
   font-size: 2.5rem;
 }
 .pd-hero .btn {
@@ -163,10 +168,12 @@ nav.pd-nav a:hover {
 @media (min-width: 768px) {
   .pd-hero h1 {
     font-size: 5rem;
+    line-height: 4.0rem;
   }
   .pd-hero h1 small {
     font-weight: 600;
-    font-size: 3.5rem;
+    font-size: 3.0rem;
+    line-height: 2.5rem;
   }
   img.pd-hero-img {
     height: 350px;

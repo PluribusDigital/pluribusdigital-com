@@ -1,4 +1,9 @@
 <header class="pd-site-header">
+  <!-- <span class="d-block d-sm-none">xs</span>
+  <span class="d-none d-sm-block d-md-none">sm</span>
+  <span class="d-none d-md-block d-lg-none">md</span>
+  <span class="d-none d-lg-block d-xl-none">lg</span>
+  <span class="d-none d-xl-block">xl</span> -->
   <div
     class="container d-flex flex-column flex-md-row align-items-center py-3 "
   >
@@ -12,13 +17,17 @@
       </a>
     </h1>
     <nav
-      class="pd-nav mx-2 mt-4 my-md-0 mr-lg-3 text-uppercase font-weight-bold text-md-nowrap text-center text-md-right"
+      class="d-flex flex-column flex-md-row row pd-nav mx-2 mt-4 my-md-0 mr-lg-3 text-uppercase font-weight-bold text-lg-nowrap text-center text-lg-right justify-content-center"
     >
-      <a class="px-2 py-1 mx-lg-3 text-nowrap {%if page.nav_highlight == 'story'%}text-primary{%else%}text-dark{%endif%}" href="/story">Our Story</a>
-      <a class="px-2 py-1 mx-lg-3 text-nowrap {%if page.nav_highlight == 'work'%}text-primary{%else%}text-dark{%endif%}" href="/work">Our Work</a>
-      <a class="px-2 py-1 mx-lg-3 text-nowrap {%if page.nav_highlight == 'join'%}text-primary{%else%}text-dark{%endif%}" href="/join">Join Us</a>
-      <a class="px-2 py-1 mx-lg-3 text-nowrap text-dark" href="https://medium.com/pluribusdigital" rel="noopener" target="_blank">Blog</a>
-      <a class="px-2 py-1 mx-lg-3 text-nowrap {%if page.nav_highlight == 'contact'%}text-primary{%else%}text-dark{%endif%}" href="/contact">Contact</a>
+      <div class="text-center">
+      <a class="px-2 py-1 mx-lg-2 text-nowrap {%if page.nav_highlight == 'story'%}text-primary{%else%}text-dark{%endif%}" href="/story">Our Story</a>
+      <a class="px-2 py-1 mx-lg-2 text-nowrap {%if page.nav_highlight == 'work'%}text-primary{%else%}text-dark{%endif%}" href="/work">Our Work</a>
+      <a class="px-2 py-1 mx-lg-2 text-nowrap {%if page.nav_highlight == 'join'%}text-primary{%else%}text-dark{%endif%}" href="/join">Join Us</a>
+      </div>  
+      <div class="text-center">
+      <a class="px-2 py-1 mx-lg-2 text-nowrap text-dark" href="https://medium.com/pluribusdigital" rel="noopener" target="_blank">Blog</a>
+      <a class="px-2 py-1 mx-lg-2 text-nowrap {%if page.nav_highlight == 'contact'%}text-primary{%else%}text-dark{%endif%}" href="/contact">Contact</a>
+      </div>
     </nav>
   </div>
 </header>

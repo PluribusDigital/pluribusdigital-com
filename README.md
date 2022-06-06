@@ -105,7 +105,7 @@ The site uses bootstrap 4.x as the baseline set of styles, and many of the built
 To trim unused CSS, we can use purgecss. This allows us to only serve up the css classes that are really needed. This looks at the file in the `css/vendor/` directory, then writes a version into `css/build` that only includes css classess actually used in the code.
 
 ```bash
-bash purgecss.sh
+bash prepcss.sh
 ```
 
 Reference the appropriate file in `_includes/template_meta.html`, using the `css/vendor` or `css/build` path. If you are actively playing with styles, use the file in `vendor/` and then switch back when done.
