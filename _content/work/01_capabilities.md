@@ -4,6 +4,12 @@ style: highlight
 css_style: "padding-bottom: 2rem !important;"
 ---
 
+<div class="text-center">
+{% include component_download_button.html
+text="Capability Statement (PDF)"
+path="files/Pluribus_Digital_Overview.pdf" %}
+</div>
+  
 {%- include component_icon_list.html 
 icon_path="img/art/design-icon.svg"
 title="Design"
