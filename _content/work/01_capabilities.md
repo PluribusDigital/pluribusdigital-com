@@ -4,7 +4,7 @@ style: highlight
 css_style: "padding-bottom: 2rem !important;"
 ---
 
-<div class="text-center mt-2">
+<div class="text-center mt-3">
 {% include component_download_button.html
 text="Capability Statement (PDF)"
 path="files/Pluribus_Digital_Overview.pdf" %}
