@@ -40,7 +40,7 @@ style: highlight
 
 {% include component_image_card.html
   title="Halai<br />Shukran"
-  subtitle="Director of Talent"
+  subtitle="VP of Talent & Culture"
   corner="ltblue"
   img_url="img/team/halai.jpg"
   blurb=""
