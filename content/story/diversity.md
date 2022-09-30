@@ -15,5 +15,5 @@ include_join_us: true
 
 The data is from a survey of 59 employees in September 2022. Of Pluribus respondents, 10% chose “Undeclared” or didn’t answer for Race/Ethnicity.
 
-US population demographics benchmark data comes from the [US Census] (https://www.census.gov/quickfacts/fact/table/US/PST045221) Tech industry benchmarks provided by [Gartner] (https://www.gartner.com/en/articles/how-women-in-it-are-championing-change), recent tech industry surveys [here] (https://explodingtopics.com/blog/women-in-tech#women-in-tech-stats) , [here] (https://www.zippia.com/advice/diversity-in-high-tech-statistics/#:~:text=White%20workers%20make%20up%20a,Black%20employees%20make%20up%207%25) and the [EEOC] (
+US population demographics benchmark data comes from the [US Census](https://www.census.gov/quickfacts/fact/table/US/PST045221) Tech industry benchmarks provided by [Gartner](https://www.gartner.com/en/articles/how-women-in-it-are-championing-change), recent tech industry surveys [here](https://explodingtopics.com/blog/women-in-tech#women-in-tech-stats) , [here](https://www.zippia.com/advice/diversity-in-high-tech-statistics/#:~:text=White%20workers%20make%20up%20a,Black%20employees%20make%20up%207%25) and the [EEOC](
 https://www.eeoc.gov/special-report/diversity-high-tech)
