@@ -24,7 +24,7 @@ style: highlight
 
 {% include component_image_card.html
   title="Bill<br />Callery"
-  subtitle="Delivery Executive & Founder"
+  subtitle="Board Member & Founder"
   corner="dkblue"
   img_url="img/team/bill.jpg"
   blurb="Bill oversees delivery for our larger customers. He seeks feedback on how we are doing, makes sure teams get what they need to succeeed, and holds our teams accountable to live up to our high delivery standards. His background includes multiple decades of getting stuff done as a technologist and manager. As the founder of the company, he is also an advisor to the executive team and a member of the board of directors."
