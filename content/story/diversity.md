@@ -7,7 +7,7 @@ include_join_us: true
 
  In an effort to be accountable to ourselves and transparent to others, we publish statistics on our own workforce. Our numbers are compared to the tech industry and the general US population as benchmarks.
  
- ## Female
+## Female
 
 |      |        Pluribus | Tech Industry | US Pop. |
 |------|:-----------------:|:---------: | :---------: |
