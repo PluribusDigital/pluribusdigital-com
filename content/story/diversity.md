@@ -6,24 +6,28 @@ include_join_us: true
 ---
 
  In an effort to be accountable to ourselves and transparent to others, we publish statistics on our own workforce. Our numbers are compared to the tech industry and the general US population as benchmarks.
+ 
+ ## Female
 
-|        |      |        Pluribus | Tech Industry | US Pop. |
-|--------|------|-----------------|---------------|---------|
-|        | 2022 |        32%      | 26%           | 51%     |
-| Female | 2021 |        35%      | 33%           | 51%     |
-|        | 2020 | 36%             | 36%           | 51%     |
+|      |        Pluribus | Tech Industry | US Pop. |
+|------|:-----------------:|:---------: | :---------: |
+| 2022 |        32%      | 26%           | 51%     |
+| 2021 |        35%      | 33%           | 51%     |
+| 2020 | 36%             | 36%           | 51%     |
 
 
-|        |      |        Pluribus | Tech Industry | US Pop. |
-|--------|------|-----------------|---------------|---------|
-|        | 2022 | 42%             | 35%           | 43%     |
-| BIPOC  | 2021 | 44%             | 31%           | 42%     |
-|        | 2020 | 35%             | 31%           | 42%     |
+## BIPOC
+
+|      |        Pluribus | Tech Industry | US Pop. |
+|------|:-----------------:|:---------: | :---------: |
+| 2022 | 42%             | 35%           | 43%     |
+| 2021 | 44%             | 31%           | 42%     |
+| 2020 | 35%             | 31%           | 42%     |
 
 
 The data is from a survey of 59 employees in September 2022. Of Pluribus respondents, 10% chose “Undeclared” or didn’t answer for Race/Ethnicity.
 
 3% of Pluribus respondents responded "yes" to disability status and veteran status. This is the first year that Pluribus Digital is tracking for disability and veteran status.
 
-US population demographics benchmark data comes from the [US Census](https://www.census.gov/quickfacts/fact/table/US/PST045221) Tech industry benchmarks provided by [Gartner](https://www.gartner.com/en/articles/how-women-in-it-are-championing-change), recent tech industry surveys [here](https://explodingtopics.com/blog/women-in-tech#women-in-tech-stats) , [here](https://www.zippia.com/advice/diversity-in-high-tech-statistics/#:~:text=White%20workers%20make%20up%20a,Black%20employees%20make%20up%207%25) and the [EEOC](
+US population demographics benchmark data comes from the [US Census](https://www.census.gov/quickfacts/fact/table/US/PST045221) Tech industry benchmarks provided by [Gartner](https://www.gartner.com/en/articles/how-women-in-it-are-championing-change), recent tech industry surveys [Women in Tech](https://explodingtopics.com/blog/women-in-tech#women-in-tech-stats) , [Diversity in Tech](https://www.zippia.com/advice/diversity-in-high-tech-statistics/#:~:text=White%20workers%20make%20up%20a,Black%20employees%20make%20up%207%25) and the [EEOC](
 https://www.eeoc.gov/special-report/diversity-high-tech)
