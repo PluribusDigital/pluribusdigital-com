@@ -6,19 +6,23 @@ include_join_us: true
 ---
 
  In an effort to be accountable to ourselves and transparent to others, we publish statistics on our own workforce. Our numbers are compared to the tech industry and the general US population as benchmarks.
+ 
+ ## Female
 
-|        |      |        Pluribus | Tech Industry | US Pop. |
-|--------|------|-----------------|---------------|---------|
-|        | 2022 |        32%      | 26%           | 51%     |
-| Female | 2021 |        35%      | 33%           | 51%     |
-|        | 2020 | 36%             | 36%           | 51%     |
+|      |        Pluribus | Tech Industry | US Pop. |
+|------|:-----------------:|:---------: | :---------: |
+| 2022 |        32%      | 26%           | 51%     |
+| 2021 |        35%      | 33%           | 51%     |
+| 2020 | 36%             | 36%           | 51%     |
 
 
-|        |      |        Pluribus | Tech Industry | US Pop. |
-|--------|------|-----------------|---------------|---------|
-|        | 2022 | 42%             | 35%           | 43%     |
-| BIPOC  | 2021 | 44%             | 31%           | 42%     |
-|        | 2020 | 35%             | 31%           | 42%     |
+## BIPOC
+
+|      |        Pluribus | Tech Industry | US Pop. |
+|------|:-----------------:|:---------: | :---------: |
+| 2022 | 42%             | 35%           | 43%     |
+| 2021 | 44%             | 31%           | 42%     |
+| 2020 | 35%             | 31%           | 42%     |
 
 
 The data is from a survey of 59 employees in September 2022. Of Pluribus respondents, 10% chose “Undeclared” or didn’t answer for Race/Ethnicity.
