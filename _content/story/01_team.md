@@ -47,7 +47,7 @@ style: highlight
 %}
 
 {% include component_image_card.html
-  title="Julie<br /><Meloni"
+  title="Julie<br />Meloni"
   subtitle="VP of Digital Solutions"
   corner="orange"
   img_url="img/team/jmeloni.jpg"
