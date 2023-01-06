@@ -49,7 +49,7 @@ style: highlight
 {% include component_image_card.html
   title="Julie<br /><Meloni"
   subtitle="VP of Digital Solutions"
-  corner="ltblue"
+  corner="orange"
   img_url="img/team/jmeloni.jpg"
   blurb=""
 %}
@@ -57,7 +57,7 @@ style: highlight
 {% include component_image_card.html
   title="Onkar<br />Singh"
   subtitle="Proposal Manager"
-  corner="orange"
+  corner="dkblue"
   img_url="img/team/pluribus-logo-notext-black-on-white-500x500.png"
   blurb=""
 %}
@@ -65,7 +65,7 @@ style: highlight
 {% include component_image_card.html
   title="Kim<br />Kroll"
   subtitle="Sr. Finance Manager"
-  corner="dkblue"
+  corner="dkred"
   img_url="img/team/kim.jpg"
   blurb=""
 %}
@@ -73,7 +73,7 @@ style: highlight
 {% include component_image_card.html
   title="Tom<br />Hallaren"
   subtitle="Information & Security Manager"
-  corner="dkred"
+  corner="ltblue"
   img_url="img/team/tomh.jpg"
   blurb=""
 %}
