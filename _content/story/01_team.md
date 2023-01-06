@@ -71,9 +71,17 @@ style: highlight
 %}
 
 {% include component_image_card.html
+  title="Diane<br />Benveniste"
+  subtitle="Senior Recruiter"
+  corner="ltblue"
+  img_url="img/team/dbenveniste.jpg"
+  blurb=""
+%}
+
+{% include component_image_card.html
   title="Tom<br />Hallaren"
   subtitle="Information & Security Manager"
-  corner="ltblue"
+  corner="orange"
   img_url="img/team/tomh.jpg"
   blurb=""
 %}
