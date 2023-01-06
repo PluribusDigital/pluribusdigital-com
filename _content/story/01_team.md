@@ -47,6 +47,14 @@ style: highlight
 %}
 
 {% include component_image_card.html
+  title="Julie<br /><Meloni"
+  subtitle="VP of Digital Solutions"
+  corner="ltblue"
+  img_url="img/team/jmeloni.jpg"
+  blurb=""
+%}
+
+{% include component_image_card.html
   title="Onkar<br />Singh"
   subtitle="Proposal Manager"
   corner="orange"
