@@ -60,6 +60,8 @@ _Commercial Price List 01/01/2023 – 12/31/2023_
 | Engineer II | \$111.44 | \$117.01 |
 | Engineer III | \$125.43 | \$131.70 |
 | Engineer IV | \$152.15 | \$159.76 |
+| Enterprise Resource Planning (ERP) Application Programmer	| \$220.41 	| \$231.43 |
+| Enterprise Resource Planning (ERP) Systems Analyst	| \$252.66 |	 \$265.30 |
 | Full Stack Engineer I | \$93.00 | \$97.65 |
 | Full Stack Engineer II | \$131.69 | \$138.27 |
 | Full Stack Engineer III | \$182.30 | \$191.42 |
