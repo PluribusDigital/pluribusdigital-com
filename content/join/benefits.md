@@ -59,8 +59,7 @@ Pluribus Digital provides a competitive benefits package in order to attract top
 * At the beginning of each calendar year, employees will also be provided five (5) days of sick leave to be used to care for themselves or a family member.  Sick days will be prorated based on time of hire.  Any unused sick time at the end of each calendar year does not roll over into the new year and does not get paid out.
 * All federal holidays will be recognized by Pluribus Digital. In limited circumstances, each employee may be granted the option to float the paid holidays observed.
 * All FMLA-eligible new parents will be granted 4 weeks of paid parental leave to be used within their leave period.
-* Pluribus Digital will pay for the first five (5) days per year for those that will need to take service leave including jury duty and/or military leave. 
-* Up to two (2) hours of time off with pay is allocated for voting.
+* Pluribus Digital will pay for the first five (5) days per year for those that will need to take service leave including jury duty and/or military leave. Up to two (2) hours of time off with pay is allocated for voting.
 
 
 ### 401K Plan
