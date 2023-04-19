@@ -34,6 +34,6 @@ title: Partnerships & Certifications
     <img src="/img/partnerships/redhat.png" alt="Red Hat Technology Partner" style="max-height: 100px">
   </div>
   <div class="col-12 col-md-4 my-2 my-md-auto">
-    <img src="/img/partnerships/salesforce.png" alt="Salesforce Partner" style="max-height: 150px">
+    <img src="/img/partnerships/DWOSBA.png" alt="Digital Women Owned Small Business Alliance" style="max-height: 150px">
   </div>
 </div>
