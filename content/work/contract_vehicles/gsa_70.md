@@ -61,17 +61,17 @@ _Pluribus Digital GSA Contract (GS-35F-404DA) Price List Effective 07/12/2023 (I
 | Security Specialist | $142.24 | $149.63 | $157.41 |
 | Senior Analyst | $205.27 | $215.94 | $227.16 |
 | Senior Business Development Analyst | $273.39 | $287.61 | $302.56 |
-| Senior Consultant/IT Specialist | $273.39 | $287.61 | $302.56 |
+| Senior Consultant/IT Specialist | $306.92 | $322.88 | $339.67 |
 | Senior Developer Analyst | $187.21 | $196.95 | $207.18 |
 | Senior Infrastructure Engineer | $210.61 | $221.56 | $233.08 |
 | Senior Programmer Analyst | $190.59 | $200.50 | $210.93 |
 | Senior Project Manager | $335.69 | $353.14 | $371.51 |
 | Senior Security Specialist | $176.50 | $185.68 | $195.34 |
 | Senior Systems Analyst | $176.56 | $185.74 | $195.41 |
-| Systems Analyst | $176.56 | $185.74 | $195.41 |
-| Systems Developer	| $176.56 | $185.74 | $195.41 | 
-| Technical Writer | $176.56 | $185.74 | $195.41 |
-| Web Developer II | $176.56 | $185.74 | $195.41 |
+| Systems Analyst | $151.31 | $159.18 | $167.47 |
+| Systems Developer	| $143.87 | $151.36 | $159.22 | 
+| Technical Writer | $143.87 | $151.36 | $159.22 |
+| Web Developer II | $143.88 | $151.37 | $159.23 |
 | Web Developer III	| $95.40 | $100.35 | $105.57 |
 
 _* All prices include the GSA IFF and  are exclusive of travel-related expenses._
