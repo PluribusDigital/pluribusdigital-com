@@ -43,7 +43,7 @@ Pluribus Digital’s GSA Multiple Award Schedule Contract # GS-35F-404DA, awarde
 ## GSA MAS Schedule Rates
 
 _Pluribus Digital GSA Contract (GS-35F-404DA) Price List Effective 07/12/2023 (Including IFF)_
-|                |      Year 8        |      Year 9      |       Year 10   |
+| Labor Category | 7/12/23 - 7/11/24 | 7/12/24 - 7/11/25 | 7/12/25 - 7/11/26 |
 | Labor Category | 7/12/23 - 7/11/24 | 7/12/24 - 7/11/25 | 7/12/25 - 7/11/26 |
 | :--- | ---: | ---: | ---: |
 | Analyst |	$162.99 | $171.47| $180.38 |
