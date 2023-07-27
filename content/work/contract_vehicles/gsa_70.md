@@ -70,7 +70,7 @@ _Pluribus Digital GSA Contract (GS-35F-404DA) Price List Effective 07/12/2023 (I
 | Senior Systems Analyst | $176.56 | $185.74 | $195.41 |
 | Systems Analyst | $151.31 | $159.18 | $167.47 |
 | Systems Developer	| $143.87 | $151.36 | $159.22 | 
-| Technical Writer | $143.87 | $151.36 | $159.22 |
+| Technical Writer | $74.35 | $78.22 | $82.29 |
 | Web Developer II | $143.88 | $151.37 | $159.23 |
 | Web Developer III	| $95.40 | $100.35 | $105.57 |
 
