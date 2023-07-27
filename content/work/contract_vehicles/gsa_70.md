@@ -42,35 +42,35 @@ Pluribus Digital’s GSA Multiple Award Schedule Contract # GS-35F-404DA, awarde
 
 ## GSA MAS Schedule Rates
 
-_Pluribus Digital GSA Contract (GS-35F-404DA) Price List Effective 07/19/2021_
-
-| Labor Category | On-Site | Off-Site |
+_Pluribus Digital GSA Contract (GS-35F-404DA) Price List Effective 07/12/2023 (Including IFF)_
+|                |      Year 8        |      Year 9      |       Year 10   |
+| Labor Category | 7/12/23 - 7/11/24 | 7/12/24 - 7/11/25 | 7/12/25 - 7/11/26 |
 | :--- | ---: | ---: |
-| Analyst |	$147.45 | $154.93|
-| Database Analyst | $165.36 | $173.63 |
-| Database Specialist | $161.48 | $169.56 |
-| Developer | $86.84 | $91.18 |
-| Developer Analyst	| $147.03 | $154.37 |
-| Enterprise Resource Planning (ERP) Application Programmer | $202.21 | $212.31 |
-| Enterprise Resource Planning (ERP) Systems Analyst | $231.80	| $243.39 |
-| Infrastructure Engineer |	$161.66	| $169.74 |
-| Junior Systems Analyst |	$107.43	| $112.82 |
-| Programmer Analyst |	$109.95	| $115.44 |
-| Project Manager |	$168.29 | $176.70 |
-| Security Specialist | $128.79 | $135.20 |
-| Senior Analyst | $185.83	| $195.11 |
-| Senior Business Development Analyst | $247.51	| $259.88 |
-| Senior Consultant/IT Specialist | $277.86 | $291.75 |
-| Senior Developer Analyst | $169.47 | $177.96 |
-| Senior Infrastructure Engineer | $190.66 | $200.19 |
-| Senior Programmer Analyst | $172.54 | $181.17 |
-| Senior Project Manager | $303.91 | $319.10 |
-| Senior Security Specialist | $159.78 | $167.78 |
-| Senior Systems Analyst | $159.84 | $167.83 |
-| Systems Analyst | $136.98 | $143.84 |
-| Systems Developer	| $130.25 | $136.77 | 
-| Technical Writer | $67.31 | $70.67 |
-| Web Developer II | $130.25 | $136.77 |
-| Web Developer III	| $86.36 | $90.66 |
+| Analyst |	$162.99 | $171.47| $180.38 |
+| Database Analyst | $182.65 | $192.15 | $202.15 |
+| Database Specialist | $178.38 | $187.66 | $197.42 |
+| Developer | $95.93 | $100.92 | $106.17 |
+| Developer Analyst	| $162.41 | $170.85 | $179.74 |
+| Enterprise Resource Planning (ERP) Application Programmer | $223.35 | $234.96 | $247.18 |
+| Enterprise Resource Planning (ERP) Systems Analyst | $256.05	| $269.36 | $283.37 |
+| Infrastructure Engineer |	$178.57	| $187.86 | $197.63 |
+| Junior Systems Analyst |	$118.68	| $124.86 | $131.35 |
+| Programmer Analyst |	$121.45	| $127.77 | $134.41 |
+| Project Manager |	$185.89 | $195.56 | $205.72 |
+| Security Specialist | $142.24 | $149.63 | $157.41 |
+| Senior Analyst | $205.27 | $215.94 | $227.16 |
+| Senior Business Development Analyst | $273.39 | $287.61 | $302.56 |
+| Senior Consultant/IT Specialist | $273.39 | $287.61 | $302.56 |
+| Senior Developer Analyst | $187.21 | $196.95 | $207.18 |
+| Senior Infrastructure Engineer | $210.61 | $221.56 | $233.08 |
+| Senior Programmer Analyst | $190.59 | $200.50 | $210.93 |
+| Senior Project Manager | $335.69 | $353.14 | $371.51 |
+| Senior Security Specialist | $176.50 | $185.68 | $195.34 |
+| Senior Systems Analyst | $176.56 | $185.74 | $195.41 |
+| Systems Analyst | $176.56 | $185.74 | $195.41 |
+| Systems Developer	| $176.56 | $185.74 | $195.41 | 
+| Technical Writer | $176.56 | $185.74 | $195.41 |
+| Web Developer II | $176.56 | $185.74 | $195.41 |
+| Web Developer III	| $95.40 | $100.35 | $105.57 |
 
 _* All prices include the GSA IFF and  are exclusive of travel-related expenses._
