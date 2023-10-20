@@ -63,14 +63,6 @@ style: highlight
 %}
 
 {% include component_image_card.html
-  title="Kim<br />Kroll"
-  subtitle="Sr. Finance Manager"
-  corner="dkred"
-  img_url="img/team/kim.jpg"
-  blurb=""
-%}
-
-{% include component_image_card.html
   title="Diane<br />Benveniste"
   subtitle="Senior Recruiter"
   corner="ltblue"
