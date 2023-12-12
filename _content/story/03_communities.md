@@ -6,7 +6,7 @@ style: highlight
 
 ### Industry Communities
 
-Pluribus engages in communities that help the government technology and contracting ecosystem find better ways to serve the government. We are a proud founding member of the [Digital Services Coalition](https://digitalservicescoalition.org/), and are a member or participant in other industry communities.
+Pluribus engages in communities that help the government technology and contracting ecosystem find better ways to serve the government. We are a proud founding member of both the [Digital Services Coalition](https://digitalservicescoalition.org/) and [Digital WOSB Alliance](https://www.digitalwosballiance.org/), and are a member or participant in other industry communities.
 
 ### Technical Communities
 
