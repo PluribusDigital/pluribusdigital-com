@@ -65,8 +65,16 @@ style: highlight
 {% include component_image_card.html
   title="Diane<br />Benveniste"
   subtitle="Senior Recruiter"
-  corner="ltblue"
+  corner="dkred"
   img_url="img/team/dbenveniste.jpg"
+  blurb=""
+%}
+
+{% include component_image_card.html
+  title="Meaghan<br />Ange"
+  subtitle="Senior Recruiter"
+  corner="ltblue"
+  img_url="img/team/meaghan.jpg"
   blurb=""
 %}
 
