@@ -72,7 +72,7 @@ style: highlight
 
 {% include component_image_card.html
   title="Meaghan<br />Ange"
-  subtitle="Senior Recruiter"
+  subtitle="Senior Accountant"
   corner="ltblue"
   img_url="img/team/meaghan.jpg"
   blurb=""
