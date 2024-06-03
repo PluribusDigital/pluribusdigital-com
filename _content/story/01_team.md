@@ -30,18 +30,11 @@ style: highlight
   blurb="Bill oversees delivery for our larger customers. He seeks feedback on how we are doing, makes sure teams get what they need to succeeed, and holds our teams accountable to live up to our high delivery standards. His background includes multiple decades of getting stuff done as a technologist and manager. As the founder of the company, he is also an advisor to the executive team and a member of the board of directors."
 %}
 
-{% include component_image_card.html
-  title="Brandy<br />Hays Morrison"
-  subtitle="VP of Strategic Growth"
-  corner="dkred"
-  img_url="img/team/brandy.jpg"
-  blurb="Brandy helps us find new customers to support, and great business partners to work with. Don't let the title fool you, she is more hands-on doer than salesperson. She has a long career starting as a developer and moving through the consulting ranks to be an expert in global customs, government change management, and technology governance."
-%}
 
 {% include component_image_card.html
   title="Halai<br />Shukran"
   subtitle="VP of Talent & Culture"
-  corner="ltblue"
+  corner="dkred"
   img_url="img/team/halai.jpg"
   blurb=""
 %}
@@ -49,7 +42,7 @@ style: highlight
 {% include component_image_card.html
   title="Julie<br />Meloni"
   subtitle="VP of Digital Solutions"
-  corner="orange"
+  corner="ltblue"
   img_url="img/team/jmeloni.jpg"
   blurb=""
 %}
@@ -57,7 +50,7 @@ style: highlight
 {% include component_image_card.html
   title="Onkar<br />Singh"
   subtitle="Proposal Manager"
-  corner="dkblue"
+  corner="orange"
   img_url="img/team/pluribus-logo-notext-black-on-white-500x500.png"
   blurb=""
 %}
@@ -65,7 +58,7 @@ style: highlight
 {% include component_image_card.html
   title="Diane<br />Benveniste"
   subtitle="Senior Recruiter"
-  corner="dkred"
+  corner="dkblue"
   img_url="img/team/dbenveniste.jpg"
   blurb=""
 %}
@@ -73,7 +66,7 @@ style: highlight
 {% include component_image_card.html
   title="Meaghan<br />Ange"
   subtitle="Senior Accountant"
-  corner="ltblue"
+  corner="dkred"
   img_url="img/team/meaghan.jpg"
   blurb=""
 %}
@@ -81,7 +74,7 @@ style: highlight
 {% include component_image_card.html
   title="Tom<br />Hallaren"
   subtitle="Information & Security Manager"
-  corner="orange"
+  corner="ltblue"
   img_url="img/team/tomh.jpg"
   blurb=""
 %}
