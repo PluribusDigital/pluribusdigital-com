@@ -23,4 +23,4 @@ text='We build & support software using modern practices. Develop features throu
 {%- include component_icon_list.html 
 icon_path="img/art/development-icon.svg"
 title="Product Delivery"
-text='We align products and efforts to mission outcomes while balancing risk and costs. Product management methods set a clear product direction balancing user desires and engineering constriants. Effective agile project and program management allow us to be effective at delivering at scale.' -%}
+text='We align products and efforts to mission outcomes while balancing risk and costs. Product management methods set a clear product direction balancing user desires and engineering constraints. Effective agile project and program management allow us to be effective at delivering at scale.' -%}
