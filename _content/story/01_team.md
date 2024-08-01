@@ -51,7 +51,7 @@ style: highlight
   title="Onkar<br />Singh"
   subtitle="Proposal Manager"
   corner="orange"
-  img_url="img/team/osingh.png"
+  img_url="img/team/osingh.jpg"
   blurb=""
 %}
 
