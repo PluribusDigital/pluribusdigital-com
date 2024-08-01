@@ -16,7 +16,7 @@ style: highlight
 
 {% include component_image_card.html
   title="Ben<br />Morris"
-  subtitle="Chief Delivery Officer"
+  subtitle="Chief Strategy Officer"
   corner="orange"
   img_url="img/team/benm.jpg"
   blurb="Ben oversees development and delivery of the solutions and services we offer. He brings management consulting, strategy, and small startup experience, but is a web developer and data geek at heart. He helps bring modern technical practices into government. His background includes hands-on software development, advanced analytics, intelligent transportation systems, big-firm consulting, and startups."
@@ -51,7 +51,7 @@ style: highlight
   title="Onkar<br />Singh"
   subtitle="Proposal Manager"
   corner="orange"
-  img_url="img/team/pluribus-logo-notext-black-on-white-500x500.png"
+  img_url="img/team/osingh.png"
   blurb=""
 %}
 
