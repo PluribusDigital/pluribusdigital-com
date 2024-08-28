@@ -33,7 +33,7 @@ style: highlight
 
 {% include component_image_card.html
   title="Halai<br />Shukran"
-  subtitle="VP of Talent & Culture"
+  subtitle="Chief Operating Officer"
   corner="dkred"
   img_url="img/team/halai.jpg"
   blurb=""
@@ -73,7 +73,7 @@ style: highlight
 
 {% include component_image_card.html
   title="Tom<br />Hallaren"
-  subtitle="Information & Security Manager"
+  subtitle="Senior Operations Manager"
   corner="ltblue"
   img_url="img/team/tomh.jpg"
   blurb=""
