@@ -48,17 +48,9 @@ style: highlight
 %}
 
 {% include component_image_card.html
-  title="Onkar<br />Singh"
-  subtitle="Proposal Manager"
-  corner="orange"
-  img_url="img/team/osingh.jpg"
-  blurb=""
-%}
-
-{% include component_image_card.html
   title="Diane<br />Benveniste"
   subtitle="Senior Recruiter"
-  corner="dkblue"
+  corner="orange"
   img_url="img/team/dbenveniste.jpg"
   blurb=""
 %}
@@ -66,7 +58,7 @@ style: highlight
 {% include component_image_card.html
   title="Meaghan<br />Ange"
   subtitle="Senior Accountant"
-  corner="dkred"
+  corner="dkblue"
   img_url="img/team/meaghan.jpg"
   blurb=""
 %}
@@ -74,7 +66,7 @@ style: highlight
 {% include component_image_card.html
   title="Tom<br />Hallaren"
   subtitle="Senior Operations Manager"
-  corner="ltblue"
+  corner="dkred"
   img_url="img/team/tomh.jpg"
   blurb=""
 %}
