@@ -34,8 +34,11 @@ The data is from a survey of 63 employees in September 2024. Of Pluribus respond
 6% of Pluribus respondents responded "yes" to disability status. Currently there are no employees who identify as a veteran. This is the third year that Pluribus Digital is tracking for disability and veteran status.
 
 US population demographics benchmark data comes from the US Census. Tech industry benchmarks provided by Gartner, recent tech industry surveys (links below).
+
 Resources:
+
 [US Census(2023 data)](https://www.census.gov/data/tables/2023/demo/age-and-sex/2023-age-sex-composition.html) 
+
 [2020 US CensusData for Ethnicity](https://www.census.gov/programs-surveys/decennial-census/decade/2020/2020-census-results.html) 
 
 [EEOC Report](https://www.eeoc.gov/special-report/high-tech-low-inclusion-diversity-high-tech-workforce-and-sector-2014-2022)
