@@ -11,6 +11,7 @@ include_join_us: true
 
 |      |        Pluribus | Tech Industry | US Pop. |
 |------|:-----------------:|:---------: | :---------: |
+| 2024 |        30%      | 23%           | 51%     |
 | 2023 |        36%      | 26%           | 51%     |
 | 2022 |        32%      | 26%           | 51%     |
 | 2021 |        35%      | 33%           | 51%     |
@@ -21,15 +22,20 @@ include_join_us: true
 
 |      |        Pluribus | Tech Industry | US Pop. |
 |------|:-----------------:|:---------: | :---------: |
+| 2024 | 44%             | 40%           | 42%     |
 | 2023 | 45%             | 38%           | 44%     |
 | 2022 | 42%             | 35%           | 43%     |
 | 2021 | 44%             | 31%           | 42%     |
 | 2020 | 35%             | 31%           | 42%     |
 
 
-The data is from a survey of 69 employees in September 2023. Of Pluribus respondents, 7% chose “Undeclared” or didn’t answer for Race/Ethnicity.
+The data is from a survey of 63 employees in September 2024. Of Pluribus respondents, 6% chose “Undeclared” or didn’t answer for Race/Ethnicity.
 
-8% of Pluribus respondents responded "yes" to disability status. Currently there are no employees who identify as a veteran. This is the second year that Pluribus Digital is tracking for disability and veteran status.
+6% of Pluribus respondents responded "yes" to disability status. Currently there are no employees who identify as a veteran. This is the third year that Pluribus Digital is tracking for disability and veteran status.
 
-US population demographics benchmark data comes from the [US Census](https://www.census.gov/quickfacts/fact/table/US/SEX255222#SEX255222) Tech industry benchmarks provided by [Gartner](https://www.gartner.com/en/articles/how-women-in-it-are-championing-change), recent tech industry surveys [Women in Tech](https://explodingtopics.com/blog/women-in-tech#women-in-tech-stats) , [Diversity in Tech](https://www.zippia.com/advice/diversity-in-high-tech-statistics/#:~:text=White%20workers%20make%20up%20a,Black%20employees%20make%20up%207%25), the [EEOC](
-https://www.eeoc.gov/special-report/diversity-high-tech), [CompTIA](https://www.cyberstates.org/pdf/CompTIA_State_of_the_tech_workforce_2023.pdf) and the [TechReport](https://techreport.com/statistics/diversity-in-high-tech-statistics/)
+US population demographics benchmark data comes from the US Census. Tech industry benchmarks provided by Gartner, recent tech industry surveys (links below).
+Resources:
+[US Census(2023 data)](https://www.census.gov/data/tables/2023/demo/age-and-sex/2023-age-sex-composition.html) 
+[2020 US CensusData for Ethnicity](https://www.census.gov/programs-surveys/decennial-census/decade/2020/2020-census-results.html) 
+
+[EEOC Report](https://www.eeoc.gov/special-report/high-tech-low-inclusion-diversity-high-tech-workforce-and-sector-2014-2022)
