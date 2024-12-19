@@ -178,9 +178,9 @@ Our job board is integrated in two places:
 - **Lob List on Main JOIN US Page:** `_content/join/02_openings.md` pulls in the listing of current openings.
 - **Openings Detail View:** `content/join/openings.md` is the page that houses the job detail, and is the path that greenhouse points to.
 
-### Custom CSS for Greenhouse
+### Custom Styling for Greenhouse
 
-The file `css/greenhouse.css` contains custom CSS additions for the contents of the greenhouse iframe. In the greenhouse configuration, you can either point to a URL for the file, or upload directly. So far we've uploaded directly, but just verify on the greenhouse config if it is not working as desired.
+Some style configuration can be done under the Greenhouse navigation of: Configure > Job boards & posts > Pluribus Digital.
 
 ## Web Analytics
 
