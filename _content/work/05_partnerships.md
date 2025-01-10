@@ -11,7 +11,7 @@ title: Partnerships & Certifications
   <div class="col-12 col-md-6 my-2 my-md-auto">
     <img src="/img/partnerships/ms-gold.png" alt="Microsoft Gold Partner, Software Development" class="w-90">
   </div>
-  <div class="col-12 col-md-4 my-2 my-md-auto">
+ <!-- <div class="col-12 col-md-4 my-2 my-md-auto">
     <img src="/img/partnerships/iso9001.png" alt="ISO 9001: Quality Management" style="max-height: 150px;">
   </div>
   <div class="col-12 col-md-4 my-2 my-md-auto">
@@ -19,7 +19,7 @@ title: Partnerships & Certifications
   </div>
   <div class="col-12 col-md-4 my-2 my-md-auto">
     <img src="/img/partnerships/iso27001.png" alt="ISO 27001: Information Security Management" style="max-height: 150px;">
-  </div>
+  </div> -->
 </div> 
 <div class="row text-center mb-4"> 
   <div class="col-12 my-2 my-md-auto">
