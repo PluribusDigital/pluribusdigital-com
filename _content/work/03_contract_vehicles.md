@@ -11,12 +11,12 @@ text=''
 link="content/work/contract_vehicles/gsa_70"
 corner="" -%}
 
-{%- include component_icon_card.html 
+<!-- {%- include component_icon_card.html 
 icon_path="img/GSAlogo.svg"
 title="GSA PSS"
 text='' 
 link="content/work/contract_vehicles/gsa_pss"
-corner="" -%}
+corner="" -%} -->
 
 {%- include component_icon_card.html 
 icon_path="img/ciosp3logo.png"
