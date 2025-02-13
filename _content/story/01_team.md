@@ -56,9 +56,17 @@ style: highlight
 %}
 
 {% include component_image_card.html
+  title="Lauren<br />Bucknam"
+  subtitle="Sr. People Operations Specialist"
+  corner="dkblue"
+  img_url="img/team/lbucknam.jpg"
+  blurb=""
+%}
+
+{% include component_image_card.html
   title="Tom<br />Hallaren"
   subtitle="Senior Operations Manager"
-  corner="dkblue"
+  corner="dkred"
   img_url="img/team/tomh.jpg"
   blurb=""
 %}
