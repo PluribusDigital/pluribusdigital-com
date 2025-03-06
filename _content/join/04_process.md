@@ -14,8 +14,8 @@ corner="orange" -%}
 
 {%- include component_icon_card.html 
 icon_path="img/art/diversity-icon.svg"
-title="Diversity Reporting"
-text='Diversity makes us stronger. Our company and industry can always do better, which is why we publicly share our workforce statistics annually.'
+title="Workforce Reporting"
+text='We publicly share our workforce statistics to provide transparency.'
 link="content/story/diversity"
 corner="dkred" -%}
 
