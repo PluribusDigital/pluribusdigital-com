@@ -1,6 +1,6 @@
 ---
 layout: interior
-title: Diversity Reporting
+title: Workforce Reporting
 lead_text: Pluribus Digital strives to create an inclusive environment for all people in order to build a diverse and talented workforce.
 include_join_us: true
 ---

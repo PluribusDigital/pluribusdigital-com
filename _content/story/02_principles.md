@@ -36,6 +36,6 @@ The following ordered principles guide our behaviors and decisions.
 
   {% include component_numbered_card.html number="7"
   title="Engage our <strong>communities</strong>."
-  text="We invest in various communities, and benefit greatly from doing so. We support professional communities, particularly those supporting underrepresented groups. We support local community organizations to help those outside of our industry." %}
+  text="We invest in various communities, and benefit greatly from doing so. We support professional communities and local community organizations to help those outside of our industry." %}
 
 </div>
