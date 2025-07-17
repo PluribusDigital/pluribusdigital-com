@@ -48,17 +48,9 @@ style: highlight
 %}
 
 {% include component_image_card.html
-  title="Julie<br />Meloni"
-  subtitle="VP of Digital Solutions"
-  corner="orange"
-  img_url="img/team/jmeloni.jpg"
-  blurb=""
-%}
-
-{% include component_image_card.html
   title="Meaghan<br />Ange"
   subtitle="Senior Accountant"
-  corner="dkblue"
+  corner="orange"
   img_url="img/team/meaghan.jpg"
   blurb=""
 %}
@@ -66,7 +58,7 @@ style: highlight
 {% include component_image_card.html
   title="Lauren<br />Bucknam"
   subtitle="Sr. People Operations Specialist"
-  corner="dkred"
+  corner="dkblue"
   img_url="img/team/lbucknam.jpg"
   blurb=""
 %}
@@ -74,7 +66,7 @@ style: highlight
 {% include component_image_card.html
   title="Tom<br />Hallaren"
   subtitle="Senior Operations Manager"
-  corner="ltblue"
+  corner="dkred"
   img_url="img/team/tomh.jpg"
   blurb=""
 %}
