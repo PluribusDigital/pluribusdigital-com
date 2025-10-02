@@ -31,11 +31,11 @@ include_join_us: true
 | 2020 | 35%             | 31%           | 42%     |
 
 
-The data is from a survey of 63 employees in September 2024. Of Pluribus respondents, 6% chose “Undeclared” or didn’t answer for Race/Ethnicity.
+The data is from a survey of 78 employees in September 2025. Of Pluribus respondents, 7% chose “Undeclared” or didn’t answer for Race/Ethnicity.
 
-6% of Pluribus respondents responded "yes" to disability status. Currently there are no employees who identify as a veteran. This is the third year that Pluribus Digital is tracking for disability and veteran status.
+11% of Pluribus respondents responded "yes" to disability status. 3% of employees identify as a veteran. This is the fourth year that Pluribus Digital is tracking for disability and veteran status.
 
-US population demographics benchmark data comes from the US Census. Tech industry benchmarks provided by Gartner, recent tech industry surveys (links below).
+US population demographics benchmark data comes from the US Census (conducted every 10 years, including data from census population estimates). Tech industry benchmarks provided by tech industry surveys (links below).
 
 Resources:
 
