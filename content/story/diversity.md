@@ -39,11 +39,14 @@ US population demographics benchmark data comes from the US Census (conducted ev
 
 Resources:
 
-[Census](https://www.census.gov/data/tables/2023/demo/age-and-sex/2023-age-sex-composition.html) 
-[Census](https://www.census.gov/data/tables/time-series/demo/popest/2020s-national-detail.html)
+[2020 Census](https://www.census.gov/data/tables/time-series/demo/popest/2020s-national-detail.html)
 
-[2020 US CensusData for Ethnicity](https://www.census.gov/programs-surveys/decennial-census/decade/2020/2020-census-results.html) 
+[2023 Census Age Sex Composition](https://www.census.gov/data/tables/2023/demo/age-and-sex/2023-age-sex-composition.html) 
 
-[EEOC Report](https://www.eeoc.gov/special-report/high-tech-low-inclusion-diversity-high-tech-workforce-and-sector-2014-2022)
-[EEOC Report](https://njbia.org/eeoc-study-finds-unequal-opportunity-lack-of-diversity-in-high-tech-sector)
-[EEOC Report](https://perscholas.org/news/people-of-color-in-tech-empowering-diversity/)
+[2020 US Census Data for Ethnicity](https://www.census.gov/programs-surveys/decennial-census/decade/2020/2020-census-results.html) 
+
+[EEOC Report Tech Sector 2014-2022](https://www.eeoc.gov/special-report/high-tech-low-inclusion-diversity-high-tech-workforce-and-sector-2014-2022)
+
+[EEOC Study Tech Sector](https://njbia.org/eeoc-study-finds-unequal-opportunity-lack-of-diversity-in-high-tech-sector)
+
+[EEOC POC in Tech Sector](https://perscholas.org/news/people-of-color-in-tech-empowering-diversity/)
