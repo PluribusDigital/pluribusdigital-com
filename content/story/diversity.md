@@ -11,6 +11,7 @@ include_join_us: true
 
 |      |        Pluribus | Tech Industry | US Pop. |
 |------|:-----------------:|:---------: | :---------: |
+| 2025 |        33%      | 23%           | 51%     |
 | 2024 |        30%      | 23%           | 51%     |
 | 2023 |        36%      | 26%           | 51%     |
 | 2022 |        32%      | 26%           | 51%     |
@@ -22,6 +23,7 @@ include_join_us: true
 
 |      |        Pluribus | Tech Industry | US Pop. |
 |------|:-----------------:|:---------: | :---------: |
+| 2024 | 47%             | 36%           | 45%     |
 | 2024 | 44%             | 40%           | 42%     |
 | 2023 | 45%             | 38%           | 44%     |
 | 2022 | 42%             | 35%           | 43%     |
@@ -37,8 +39,11 @@ US population demographics benchmark data comes from the US Census. Tech industr
 
 Resources:
 
-[US Census(2023 data)](https://www.census.gov/data/tables/2023/demo/age-and-sex/2023-age-sex-composition.html) 
+[Census](https://www.census.gov/data/tables/2023/demo/age-and-sex/2023-age-sex-composition.html) 
+[Census](https://www.census.gov/data/tables/time-series/demo/popest/2020s-national-detail.html)
 
 [2020 US CensusData for Ethnicity](https://www.census.gov/programs-surveys/decennial-census/decade/2020/2020-census-results.html) 
 
 [EEOC Report](https://www.eeoc.gov/special-report/high-tech-low-inclusion-diversity-high-tech-workforce-and-sector-2014-2022)
+[EEOC Report](https://njbia.org/eeoc-study-finds-unequal-opportunity-lack-of-diversity-in-high-tech-sector)
+[EEOC Report](https://perscholas.org/news/people-of-color-in-tech-empowering-diversity/)
