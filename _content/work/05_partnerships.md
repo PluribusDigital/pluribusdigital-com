@@ -11,6 +11,8 @@ title: Partnerships & Certifications
   <div class="col-12 col-md-6 my-2 my-md-auto">
     <img src="/img/partnerships/ms-gold.png" alt="Microsoft Gold Partner, Software Development" class="w-90">
   </div>
+</div>
+<div class="row text-center mb-4">
  <div class="col-12 col-md-4 my-2 my-md-auto">
     <img src="/img/partnerships/iso9001.png" alt="ISO 9001: Quality Management" style="max-height: 150px;">
   </div>
@@ -22,15 +24,10 @@ title: Partnerships & Certifications
   </div>
 </div> 
 <div class="row text-center mb-4"> 
-  <div class="col-12 my-2 my-md-auto">
+  <div class="col-6 my-2 my-md-auto">
     <img src="/img/partnerships/72235-CMMI.png" alt="CMMI SRV/L2: CMMI SRV Level 2" style="max-height: 100px;horizontal-align:middle;">
   </div> 
-</div>
-<div class="row text-center mb-4">
-  <div class="col-12 col-md-4 my-2 my-md-auto">
-    <img src="/img/partnerships/WOSB-certified.png" alt="Women Owned Small Business" class="w-90">
-  </div> 
-  <div class="col-12 col-md-4 my-2 my-md-auto">
+  <div class="col-6 col-md-4 my-2 my-md-auto">
     <img src="/img/partnerships/DWOSBA.png" alt="Digital Women Owned Small Business Alliance" style="max-height: 150px">
   </div>
 </div>
