@@ -84,7 +84,7 @@ _Your mileage may vary... the Docker approach has had mixed results, and any PR 
 Make sure [Docker is installed](https://www.docker.com/products/docker-desktop).
 
 ```bash
-docker-compose up
+docker compose up
 ```
 
 The app should now be available at: http://localhost:4000/

@@ -2,15 +2,28 @@
 # Switched to local Dockerfile build to enable some js (purgecss)
 # Note: dropped 'pages' tag on image because it had a build error
 
-version: '3'
+# services: 
 
-services: 
+#     jekyll:
+#         build: .
+#         command: jekyll serve --watch --incremental
+#         ports:
+#             - 4000:4000
+#             - 35729:35729
+#         volumes:
+#             - .:/srv/jekyll
 
-    jekyll:
-        build: .
-        command: bash start.sh
-        ports:
-            - 4000:4000
-            - 35729:35729
-        volumes:
-            - .:/srv/jekyll
+services:
+  site:
+    build: .
+    platform: linux/arm64
+    command: bundle exec jekyll serve --host 0.0.0.0 --force_polling --livereload
+    ports:
+      - "4000:4000"
+      - "35729:35729"
+    volumes:
+      - .:/srv/jekyll
+      - ./vendor/bundle:/usr/local/bundle
+    working_dir: /srv/jekyll
+    environment:
+      - JEKYLL_ENV=development
