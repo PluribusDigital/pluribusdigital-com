@@ -31,3 +31,5 @@ end
 
 # Add webrick as it's no longer bundled with Ruby
 gem "webrick", "~> 1.8" 
+
+# borrowed from: https://en.namixkim.com/post/dockerize-jekyll/

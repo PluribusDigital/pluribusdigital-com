@@ -38,8 +38,8 @@ sass:
 exclude:
   - Gemfile
   - Gemfile.lock
-  # - node_modules
-  # - vendor/bundle/
+  # - node_modulesh
+  - vendor/
   # - vendor/cache/
   # - vendor/gems/
   # - vendor/ruby/
