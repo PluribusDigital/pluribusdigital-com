@@ -21,5 +21,5 @@ hero:
 
 </div>
 
-Pluribus Digital brings a solid legacy of standing behind important customer missions. We began as Solution Technology Systems, Inc. (STSI), and have adopted the name Pluribus Digital to better reflect who we are and where we are going.
+Pluribus Digital helps government change agents realize their digital services vision by providing the implementation capabilities to design, develop, and deliver high-impact digital products that serve the public good. We are a small company, but have proven that we can tackle some of the biggest and most important challenges in how government can best use technology to serve the public.
 
