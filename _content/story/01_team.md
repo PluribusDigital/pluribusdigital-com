@@ -64,9 +64,17 @@ style: highlight
 %}
 
 {% include component_image_card.html
+  title="Britt<br />McLeish"
+  subtitle="Business Development Manager"
+  corner="dkred"
+  img_url="img/team/bmcleish.jpg"
+  blurb=""
+%}
+
+{% include component_image_card.html
   title="Tom<br />Hallaren"
   subtitle="Senior Operations Manager"
-  corner="dkred"
+  corner="ltblue"
   img_url="img/team/tomh.jpg"
   blurb=""
 %}
