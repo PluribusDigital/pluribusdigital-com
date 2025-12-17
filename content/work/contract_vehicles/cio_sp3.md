@@ -24,7 +24,7 @@ Visit the [NITAAC CIO-SP3 Small Business website](https://nitaac.nih.gov/service
 | **Sponsor**  | National Institute of Health (NIH) |
 | **Administrator**  | NIH Information Technology Acquisition and Assessment Center (NITAAC) |
 | **Program Ceiling**  | $20 Billion |
-| **Expiration Date**  | 7/14/22 |
+| **Expiration Date**  | 4/29/2026 |
 | **Type of Task Orders**  | CPFF, CPAF, CPIF, FFP, and T&M |
 | **Prompt Payment Terms**  | No special discount for prompt payment |
 
@@ -54,7 +54,7 @@ _Contract Number:_ 75N98120D00076
 
 {% include component_download_button.html
 text="CIO-SP3 SB Awarded GWAC Standard Form 26 (PDF)"
-path="files/75N98120D00076-SOLUTION-TECHNOLOGY-SYSTEMS-INC_-SF-26.pdf" %}
+path="files/75N98120D00076.pdf" %}
 
 {% include component_download_button.html
 text="Conformed Contract (PDF)"
