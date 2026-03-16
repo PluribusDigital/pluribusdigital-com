@@ -72,9 +72,17 @@ style: highlight
 %}
 
 {% include component_image_card.html
+  title="Cheyenne<br />Meredith"
+  subtitle="Senior Recruiter"
+  corner="ltblue"
+  img_url="img/team/cmeredith.jpg"
+  blurb=""
+%}
+
+{% include component_image_card.html
   title="Tom<br />Hallaren"
   subtitle="Senior Operations Manager"
-  corner="ltblue"
+  corner="orange"
   img_url="img/team/tomh.jpg"
   blurb=""
 %}
