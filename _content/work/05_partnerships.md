@@ -29,11 +29,11 @@ title: Partnerships & Certifications
   </div>
  </div>
 <div class="row text-center mb-4"> 
-   <div class="col-12 col-md-4 my-2 my-md-auto">
-    <img src="/img/partnerships/dsc-logo.png" alt="Digital Services Coalition" class="w-90">
+   <div class="col-12 col-md-6 my-2 my-md-auto">
+    <img src="/img/partnerships/dsc-logo.png" alt="Digital Services Coalition">
    </div>
-   <div class="col-12 col-md-4 my-2 my-md-auto">
-    <img src="/img/partnerships/dwosba2.png" alt="Digital Women Owned Small Business Alliance" class="w-90">
+   <div class="col-12 col-md-6 my-2 my-md-auto">
+    <img src="/img/partnerships/dwosba2.png" alt="Digital Women Owned Small Business Alliance">
    </div>
  </div>
 
