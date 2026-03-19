@@ -23,8 +23,8 @@ title: Partnerships & Certifications
     <img src="/img/partnerships/iso27001.png" alt="ISO 27001: Information Security Management" style="max-height: 150px;">
   </div>
 </div> 
-<div class="row text-center mb-4">
- <div class="center-graphic">
+<div class="center-graphic">
+ <div class="col-12 col-md-4 my-md-auto">
     <img src="/img/partnerships/72235-CMMI.png" alt="CMMI SRV/L2: CMMI SRV Level 2" style="max-height: 100px;horizontal-align:middle;">
   </div>
  </div>
