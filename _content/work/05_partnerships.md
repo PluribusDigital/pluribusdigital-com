@@ -33,7 +33,7 @@ title: Partnerships & Certifications
     <img src="/img/partnerships/dsc-logo.png" alt="Digital Services Coalition">
    </div>
    <div class="col-12 col-md-6 my-2 my-md-auto">
-    <img src="/img/partnerships/dwosba2.png" alt="Digital Women Owned Small Business Alliance">
+    <img src="/img/partnerships/DWOSBA.png" alt="Digital Women Owned Small Business Alliance">
    </div>
  </div>
 
