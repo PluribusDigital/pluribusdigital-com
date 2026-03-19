@@ -24,7 +24,7 @@ title: Partnerships & Certifications
   </div>
 </div> 
 <div class="row text-center mb-4">
- <div class="col-12 col-md-4 my-md-auto">
+ <div class="center-graphic">
     <img src="/img/partnerships/72235-CMMI.png" alt="CMMI SRV/L2: CMMI SRV Level 2" style="max-height: 100px;horizontal-align:middle;">
   </div>
  </div>
