@@ -24,16 +24,16 @@ title: Partnerships & Certifications
   </div>
 </div> 
 <div class="row text-center mb-4">
- <div class="col-6 my-2 my-md-auto">
+ <div class="col-12 col-md-4 my-md-auto">
     <img src="/img/partnerships/72235-CMMI.png" alt="CMMI SRV/L2: CMMI SRV Level 2" style="max-height: 100px;horizontal-align:middle;">
   </div>
  </div>
 <div class="row text-center mb-4"> 
    <div class="col-12 col-md-4 my-2 my-md-auto">
-    <img src="/img/partnerships/dsc-logo.png" alt="Digital Services Coalition" style="max-height: 100px;horizontal-align:left;">
+    <img src="/img/partnerships/dsc-logo.png" alt="Digital Services Coalition" class="w-90">
    </div>
    <div class="col-12 col-md-4 my-2 my-md-auto">
-    <img src="/img/partnerships/DWOSBA.png" alt="Digital Women Owned Small Business Alliance" style="max-height: 150px;horizontal-align:right;">
+    <img src="/img/partnerships/DWOSBA.png" alt="Digital Women Owned Small Business Alliance" class="w-90">
    </div>
  </div>
 
