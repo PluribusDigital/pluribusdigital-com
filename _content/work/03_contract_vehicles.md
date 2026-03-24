@@ -20,6 +20,13 @@ link="content/work/contract_vehicles/cio_sp3"
 corner="" -%}
 
 {%- include component_icon_card.html 
+icon_path="img/Polaris.png"
+title="Polaris"
+text='' 
+link="https://pluribuspolarisjv.com/"
+corner="" -%}
+
+{%- include component_icon_card.html 
 icon_path="img/template/p-logo.svg"
 title="Commercial Items"
 text=''

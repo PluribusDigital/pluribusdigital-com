@@ -36,8 +36,4 @@ title: Partnerships & Certifications
     <img src="/img/partnerships/DWOSBA.png" alt="Digital Women Owned Small Business Alliance">
    </div>
  </div>
-<div class="row text-center mb-4">
- <div class="col-12 col-md-12 my-md-auto">
-    <img src="/img/partnerships/Polaris.png" alt="Polaris" style="max-height: 100px;horizontal-align:middle;">
-  </div>
-</div>
+
