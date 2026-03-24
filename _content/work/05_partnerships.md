@@ -5,7 +5,7 @@ title: Partnerships & Certifications
 
 
 <div class="row text-center mb-4">
-   <div class="col-12 col-md-6 my-2 my-md-auto">
+  <div class="col-12 col-md-6 my-2 my-md-auto">
     <img src="/img/partnerships/aws.png" alt="AWS Consulting Partner" class="w-90">
   </div>
   <div class="col-12 col-md-6 my-2 my-md-auto">
@@ -27,7 +27,7 @@ title: Partnerships & Certifications
  <div class="col-12 col-md-12 my-md-auto">
     <img src="/img/partnerships/72235-CMMI.png" alt="CMMI SRV/L2: CMMI SRV Level 2" style="max-height: 100px;horizontal-align:middle;">
   </div>
- </div>
+</div>
 <div class="row text-center mb-4"> 
    <div class="col-12 col-md-6 my-2 my-md-auto">
     <img src="/img/partnerships/dsc-logo.png" alt="Digital Services Coalition">
@@ -36,4 +36,8 @@ title: Partnerships & Certifications
     <img src="/img/partnerships/DWOSBA.png" alt="Digital Women Owned Small Business Alliance">
    </div>
  </div>
-
+<div class="row text-center mb-4">
+ <div class="col-12 col-md-12 my-md-auto">
+    <img src="/img/partnerships/Polaris.png" alt="Polaris" style="max-height: 100px;horizontal-align:middle;">
+  </div>
+</div>
