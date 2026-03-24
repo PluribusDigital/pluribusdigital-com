@@ -23,7 +23,7 @@ corner="" -%}
 icon_path="img/Polaris.png"
 title="Polaris"
 text='' 
-link="https://pluribuspolarisjv.com/"
+link="pluribuspolarisjv.com"
 corner="" -%}
 
 {%- include component_icon_card.html 
