@@ -21,9 +21,9 @@ corner="" -%}
 
 {%- include component_icon_card.html 
 icon_path="img/Polaris.png"
-title="Polaris"
+title="<a href="https://pluribuspolarisjv.com">Polaris</a>"
 text='' 
-link="pluribuspolarisjv.com"
+link=""
 corner="" -%}
 
 {%- include component_icon_card.html 
