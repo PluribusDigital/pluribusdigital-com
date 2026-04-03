@@ -23,18 +23,9 @@ style: highlight
 %}
 
 {% include component_image_card.html
-  title="Bill<br />Callery"
-  subtitle="Board Member & Founder"
-  corner="dkblue"
-  img_url="img/team/bill.jpg"
-  blurb="Bill oversees delivery for our larger customers. He seeks feedback on how we are doing, makes sure teams get what they need to succeeed, and holds our teams accountable to live up to our high delivery standards. His background includes multiple decades of getting stuff done as a technologist and manager. As the founder of the company, he is also an advisor to the executive team and a member of the board of directors."
-%}
-
-
-{% include component_image_card.html
   title="Halai<br />Shukran"
   subtitle="Chief Operating Officer"
-  corner="dkred"
+  corner="dkblue"
   img_url="img/team/halai.jpg"
   blurb=""
 %}
@@ -42,7 +33,7 @@ style: highlight
 {% include component_image_card.html
   title="Jon<br />Carr"
   subtitle="Chief Growth Officer"
-  corner="ltblue"
+  corner="dkred"
   img_url="img/team/jcarr.jpg"
   blurb=""
 %}
@@ -50,15 +41,15 @@ style: highlight
 {% include component_image_card.html
   title="Meaghan<br />Ange"
   subtitle="Senior Accountant"
-  corner="orange"
+  corner="ltblue"
   img_url="img/team/meaghan.jpg"
   blurb=""
 %}
 
 {% include component_image_card.html
   title="Lauren<br />Bucknam"
-  subtitle="Sr. People Operations Specialist"
-  corner="dkblue"
+  subtitle="Senior People Operations Specialist"
+  corner="orange"
   img_url="img/team/lbucknam.jpg"
   blurb=""
 %}
@@ -66,7 +57,7 @@ style: highlight
 {% include component_image_card.html
   title="Britt<br />McLeish"
   subtitle="Business Development Manager"
-  corner="dkred"
+  corner="dkblue"
   img_url="img/team/bmcleish.jpg"
   blurb=""
 %}
@@ -74,7 +65,7 @@ style: highlight
 {% include component_image_card.html
   title="Cheyenne<br />Meredith"
   subtitle="Senior Recruiter"
-  corner="ltblue"
+  corner="dkred"
   img_url="img/team/cmeredith.jpg"
   blurb=""
 %}
@@ -82,7 +73,7 @@ style: highlight
 {% include component_image_card.html
   title="Tom<br />Hallaren"
   subtitle="Senior Operations Manager"
-  corner="orange"
+  corner="ltblue"
   img_url="img/team/tomh.jpg"
   blurb=""
 %}
