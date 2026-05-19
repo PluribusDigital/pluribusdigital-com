@@ -74,7 +74,7 @@ style: highlight
   title="Christa<br />Zimmerman"
   subtitle="Senior Director of Account Delivery"
   corner="ltblue"
-  img_url="img/team/czimmerman.jpg"
+  img_url="img/team/christa.jpg"
   blurb=""
 %}
 
