@@ -71,9 +71,17 @@ style: highlight
 %}
 
 {% include component_image_card.html
+  title="Christa<br />Zimmerman"
+  subtitle="Senior Director of Account Delivery"
+  corner="ltblue"
+  img_url="img/team/czimmerman.jpg"
+  blurb=""
+%}
+
+{% include component_image_card.html
   title="Tom<br />Hallaren"
   subtitle="Senior Operations Manager"
-  corner="ltblue"
+  corner="orange"
   img_url="img/team/tomh.jpg"
   blurb=""
 %}
