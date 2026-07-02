@@ -4,16 +4,16 @@
       <div class="d-md-flex text-center pd-icon-card-title">
         <div class="my-auto pr-3" >
             {% if include.link != null %}
-              <a href="/{{include.link}}">
+              <a href="{{include.link}}">
                 <img
-                  src="/{{include.icon_path}}"
+                  src="{{include.icon_path}}"
                   style="height: 100px; width: 100px"
                   alt="{{include.icon_alt}}" 
                 />    
               </a>
             {% else %}
               <img
-                src="/{{include.icon_path}}"
+                src="{{include.icon_path}}"
                 style="height: 100px; width: 100px"
                 alt="{{include.icon_alt}}" 
               />
@@ -22,7 +22,7 @@
         <div class="my-auto" >
           <h3 class="card-title my-2 my-md-auto">
             {% if include.link != null %}
-              <a href="/{{include.link}}">{{include.title}}</a>
+              <a href="{{include.link}}">{{include.title}}</a>
             {% else %}
               {{include.title}}
             {% endif %}
