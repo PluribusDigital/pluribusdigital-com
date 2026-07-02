@@ -3,28 +3,35 @@
     <div class="card-body text-left p-0 px-md-5 py-md-4">
       <div class="d-md-flex text-center pd-icon-card-title">
         <div class="my-auto pr-3" >
-          <img
-            src="{{include.icon_path}}"
-            style="height: 100px; width: 100px"
-            alt="{{include.icon_alt}}" 
-          />
+            {% if include.link != null %}
+              <a href="/{{include.link}}">
+                <img
+                  src="/{{include.icon_path}}"
+                  style="height: 100px; width: 100px"
+                  alt="{{include.icon_alt}}" 
+                />    
+              </a>
+            {% else %}
+              <img
+                src="/{{include.icon_path}}"
+                style="height: 100px; width: 100px"
+                alt="{{include.icon_alt}}" 
+              />
+            {% endif %}
         </div>
         <div class="my-auto" >
           <h3 class="card-title my-2 my-md-auto">
-            {{include.title}}
+            {% if include.link != null %}
+              <a href="/{{include.link}}">{{include.title}}</a>
+            {% else %}
+              {{include.title}}
+            {% endif %}
           </h3>
         </div>
       </div>
       <p class="card-text mt-0 mt-md-2">
         {{include.text}}
       </p>
-      {% if include.link != null %}
-        <div class="text-center mt-3">
-          <a href="{{include.link}}">
-            {{include.title}} Details
-          </a>
-        </div>
-      {% endif %}
     </div>
   </div>
 </div> 
