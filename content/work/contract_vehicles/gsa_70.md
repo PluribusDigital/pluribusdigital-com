@@ -3,7 +3,7 @@ layout: interior
 title: GSA MAS Schedule
 ---
 
-## GSA MAS Schedule
+## Contract Overview
 
 _NOTE: Solution Technology Systems, Inc. (STSI) is doing business as Pluribus Digital._
 
