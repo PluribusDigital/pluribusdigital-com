@@ -7,9 +7,11 @@ title: GSA MAS Schedule
 
 _NOTE: Solution Technology Systems, Inc. (STSI) is doing business as Pluribus Digital._
 
+<!-- Excluding until we get the PDF updated
 {% include component_download_button.html
 text="GSA MAS Schedule Customer Information (PDF)"
 path="files/GS35F404DAPluribusDigitalMAS.pdf" %}
+-->
 
 Pluribus Digital’s GSA Multiple Award Schedule Contract # GS-35F-404DA, awarded in 2016, enables us to offer federal government clients the following services:
 
@@ -42,36 +44,34 @@ Pluribus Digital’s GSA Multiple Award Schedule Contract # GS-35F-404DA, awarde
 
 ## GSA MAS Schedule Rates
 
-_Pluribus Digital GSA Contract (GS-35F-404DA) Price List Effective 07/12/2024 (Including IFF)_
+_Pluribus Digital GSA Contract (GS-35F-404DA) Price List Effective 07/12/2026 (Including IFF*)_
 
-|  | Year 9 | Year 10 |
-| :--- | :---: | :---: | :---: |
-| **Labor Category** | **7/12/24 - 7/11/25** | **7/12/25 - 7/11/26** |
-| Analyst |	$171.47| $180.38 |
-| Database Analyst | $192.15 | $202.15 |
-| Database Specialist | $187.66 | $197.42 |
-| Developer | $100.92 | $106.17 |
-| Developer Analyst	| $170.85 | $179.74 |
-| Enterprise Resource Planning (ERP) Application Programmer | $234.96 | $247.18 |
-| Enterprise Resource Planning (ERP) Systems Analyst | $269.36 | $283.37 |
-| Infrastructure Engineer |	$187.86 | $197.63 |
-| Junior Systems Analyst | $124.86 | $131.35 |
-| Programmer Analyst | $127.77 | $134.41 |
-| Project Manager |	$195.56 | $205.72 |
-| Security Specialist | $149.63 | $157.41 |
-| Senior Analyst | $215.94 | $227.16 |
-| Senior Business Development Analyst | $287.61 | $302.56 |
-| Senior Consultant/IT Specialist | $322.88 | $339.67 |
-| Senior Developer Analyst | $196.95 | $207.18 |
-| Senior Infrastructure Engineer | $221.56 | $233.08 |
-| Senior Programmer Analyst | $200.50 | $210.93 |
-| Senior Project Manager | $353.14 | $371.51 |
-| Senior Security Specialist | $185.68 | $195.34 |
-| Senior Systems Analyst | $185.74 | $195.41 |
-| Systems Analyst | $159.18 | $167.47 |
-| Systems Developer	| $151.36 | $159.22 | 
-| Technical Writer | $78.22 | $82.29 |
-| Web Developer II | $151.37 | $159.23 |
-| Web Developer III	| $100.35 | $105.57 |
+|  | Year 11 | Year 12 | Year 13 | Year 14 | Year 15 |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Labor Category** | **7/12/26 - 7/11/27** | **7/12/27 - 7/11/28** | **7/12/28 - 7/11/29** | **7/12/29 - 7/11/30** | **7/12/30 - 7/11/31** |
+| Associate Technologist |	$167.51| $176.22 | $185.38 | $195.02 | $205.16 |
+| Database Analyst | $212.65 | $223.71 | $235.34 | $247.58 | $260.45 |
+| Database Specialist | $207.68 | $218.48 | $229.84 | $241.79 | $254.36 |
+| Developer | $111.69 | $117.50 | $123.61 | $130.04 | $136.80 |
+| Developer Analyst | $189.08 | $198.91 | $209.25 | $220.13 | $231.58 |
+| Infrastructure Engineer | $207.90 | $218.71 | $230.08 | $242.04 | $254.63 |
+| Junior Systems Analyst | $138.17 | $145.35 | $152.91 | $160.86 | $169.22 |
+| Lead Technologist | $238.98 | $251.41 | $264.48 | $278.23 | $292.70 |
+| Principal Technologist | $298.11 | $313.61 | $329.92 | $347.08 | $365.13 |
+| Programmer Analyst | $141.40 | $148.75 | $156.49 | $164.63 | $173.19 |
+| Project Manager | $216.43 | $227.68 | $239.52 | $251.98 | $265.08 |
+| Senior Specialist | $165.60 | $174.21 | $183.27 | $192.8 | $202.83 |
+| Senior Developer Analyst | $217.96 | $229.29 | $241.21 | $253.75 | $266.95 |
+| Senior Infrastructure Engineer | $245.20 | $257.95 | $271.36 | $285.47 | $300.31 |
+| Senior Programmer Analyst | $221.90 | $233.44 | $245.58 | $258.35 | $271.78 |
+| Senior Project Manager | $390.82 | $411.14 | $432.52 | $455.01 | $478.67 |
+| Senior Security Specialist | $205.50 | $216.19 | $227.43 | $239.26 | $251.70 |
+| Senior Technologist | $199.41 | $209.78 | $220.69 | $232.17 | $244.24 |
+| SME Technologist | $357.33 | $375.91 | $395.46 | $416.02 | $437.65 |
+| Systems Analyst | $176.17 | $185.33 | $194.97 | $205.11 | $215.78 |
+| Systems Developer | $167.50 | $176.21 | $185.37 | $195.01 | $205.15 |
+| Technical Writer | $86.56 | $91.06 | $95.80 | $100.78 | $106.02 |
+| Technologist | $189.77 | $199.64 | $210.02 | $220.94 | $232.43 |
+| Web Developer III | $111.07 | $116.85 | $122.93 | $129.32 | $136.04 |
 
 _* All prices include the GSA IFF and  are exclusive of travel-related expenses._
