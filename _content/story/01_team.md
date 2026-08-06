@@ -70,6 +70,7 @@ style: highlight
   blurb=""
 %}
 
+
 {% include component_image_card.html
   title="Tom<br />Hallaren"
   subtitle="Senior Operations Manager"
