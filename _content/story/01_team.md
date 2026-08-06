@@ -63,17 +63,9 @@ style: highlight
 %}
 
 {% include component_image_card.html
-  title="Cheyenne<br />Meredith"
-  subtitle="Senior Recruiter"
-  corner="dkred"
-  img_url="img/team/cmeredith.jpg"
-  blurb=""
-%}
-
-{% include component_image_card.html
   title="Christa<br />Zimmerman"
   subtitle="Senior Director of Account Delivery"
-  corner="ltblue"
+  corner="dkred"
   img_url="img/team/christa.jpg"
   blurb=""
 %}
@@ -81,7 +73,7 @@ style: highlight
 {% include component_image_card.html
   title="Tom<br />Hallaren"
   subtitle="Senior Operations Manager"
-  corner="orange"
+  corner="ltblue"
   img_url="img/team/tomh.jpg"
   blurb=""
 %}
