@@ -67,7 +67,7 @@ Pluribus Digital provides a competitive benefits package in order to attract top
 * Eligible employees are able to enroll at the beginning of any month.
 * The 401(k) plan allows eligible employees to contribute on a pre or after tax basis (Roth), including catch up contributions for those individuals age 50 and over. Annual limits are set by the IRS.
 * The 401(k) match is discretionary and the amounts, if any, are determined at the end of each year.
-* 401(k) match is vested over a six-year period.
+* 401(k) match is vested over a three-year period.
 * Eligibility requirements for employer match is a minimum of 1000 hours worked per year and employed with Pluribus on the last day of the plan year.
 
 ### Professional Development Reimbursement
