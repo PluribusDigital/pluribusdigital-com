@@ -98,7 +98,7 @@ Having worked across industries on both the East and West Coasts, Halai brings a
 
 {% include component_image_card.html
   title="Sri Partowardojo"
-  subtitle="Director, Product"
+  subtitle="Director, Product Management"
   corner="dkred"
   img_url="img/team/SriP.jpg"
   blurb=""
