@@ -18,7 +18,7 @@ style: highlight
   title="Ben Morris"
   subtitle="Chief Strategy Officer"
   corner="orange"
-  img_url="img/team/BenM.jpg"
+  img_url="img/team/benm.jpg"
   blurb="Ben oversees development and delivery of the solutions and services we offer. He brings management consulting, strategy, and small startup experience, but is a web developer and data geek at heart. He helps bring modern technical practices into government. His background includes hands-on software development, advanced analytics, intelligent transportation systems, big-firm consulting, and startups."
 %}
 
