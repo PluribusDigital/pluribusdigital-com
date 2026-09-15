@@ -52,15 +52,15 @@ unsolicited proposals to meet agency requirements already posted to the NASA SEW
 
 ## Pluribus Digital Contract Information
 
-| **Category / SEWP VI Contract Number**  | Category B Contract / 80TECH26D1488 </ br> Category C Contract / 80TECH26D1021|
+| **Category / SEWP VI Contract Number**  | Category B Contract / 80TECH26D1488 <br /> Category C Contract / 80TECH26D1021|
 | :--- | :--- |
 | **Contract Type**  | GWAC |
 | **POP**  | Nov 2026 - Oct 2036 |
 | **SEWP Surcharge**  | 0.34% |
 | **UEI**  | EBC8TT6W1LR7 |
 | **SEWP VI Contract Holder Information**  | https://www.pluribusdigital.com |
-| **Pluribus Digital Program Management Contacts**  | SEWP Program Manager - Britt McLeish </br> BMcLeish@PluribusDigital.com / (703) 247-0927   |
-|   | SEWP Deputy Program Manager - Jon Carr </br> JCarr@PluribusDigital.com / (703) 247-0934  |
+| **Pluribus Digital Program Management Contacts**  | SEWP Program Manager - Britt McLeish / BMcLeish@PluribusDigital.com / (703) 247-0927   |
+|   | SEWP Deputy Program Manager - Jon Carr / JCarr@PluribusDigital.com / (703) 247-0934  |
 
 
 ## How to Contact SEWP
