@@ -25,7 +25,7 @@ Contractors will be provided a fair opportunity at the individual order level as
 tools. No documentation for the order selection is required to be submitted with the order. All such documentation is to be maintained by
 the issuing procurement office.
 
-The Contractyor shall not market, quote or otherwise offer for sale, any IT Solutions not listed under this contract, until the said solutions
+The Contractor shall not market, quote or otherwise offer for sale, any IT Solutions not listed under this contract, until the said solutions
 are included in the SEWP database of record, and available to all Government end-users.
 
 If the Government issues a Request For Information (RFI) as part of market research, the Contractor may provide items not yet listed on
@@ -34,10 +34,9 @@ their SEWP contract as part of a market research quote if:
 1. all such items are clearly marked as not yet available on their SEWP contract; and
 2. the contractor submits a technology refreshment request to add those products to their contract
 
-If the Government issues a Request For Quote (RFQ) or a Market Research Request (MRR), the Contractor may only respond with items available on their Contract and the
+If the Government issues a Request For Quote (RFQ) or a Market Research Request (MRR), the Contractor may only respond with items available on their contract, and the
 price of each item shall be the no greater than the price in Attachment F SEWP database of record at the time the quote is issued. If the
 Contractor has insufficient items on their contract to fully respond to the Formal RFQ, the Contractor must respond with a No Bid.
-
 Unless the RFQ specifically allows for partial quotes, the Contractor must respond fully to all requiremnts specified in the RFQ.
 
 When submitting a quote to a government end-user, the contractor must clearly state the length of time the quote is valid. The contractor
