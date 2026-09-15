@@ -75,5 +75,5 @@ unsolicited proposals to meet agency requirements already posted to the NASA SEW
 ### Pluribus Digital Ordering Guide
 
 
- **Ordering Guide Contains:** </br>
+ **Ordering Guide Contains:** 
 SEWP Overview, Contact Information, What's in Scope for SEWP VI, [Ordering Process](/files/Ordering-Guide-SEWP-VI-Pluribus.pdf) 
