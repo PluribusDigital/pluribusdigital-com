@@ -76,4 +76,4 @@ unsolicited proposals to meet agency requirements already posted to the NASA SEW
 
 
  **Ordering Guide Contains:** </br>
-SEWP Overview, Contact Information, What's in Scope for SEWP VI, [Ordering Process](/files/Ordering-Guide-SEWP-VIPluribus.pdf) 
+SEWP Overview, Contact Information, What's in Scope for SEWP VI, [Ordering Process](/files/Ordering-Guide-SEWP-VI-Pluribus.pdf) 
