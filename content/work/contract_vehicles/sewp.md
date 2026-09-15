@@ -52,7 +52,7 @@ unsolicited proposals to meet agency requirements already posted to the NASA SEW
 
 ## Pluribus Digital Contract Information
 
-| **Category / SEWP VI Contract Number**  | Category B Contract / 80TECH26D1488 </br> Category C Contract / 80TECH26D1021|
+| **Category / SEWP VI Contract Number**  | Category B Contract / 80TECH26D1488 </ br> Category C Contract / 80TECH26D1021|
 | :--- | :--- |
 | **Contract Type**  | GWAC |
 | **POP**  | Nov 2026 - Oct 2036 |
