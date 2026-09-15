@@ -3,8 +3,6 @@ layout: interior
 title: NASA SEWP VI
 ---
 
-## NASA SEWP VI <br /><small>Pluribus Digital</small>
-
 <img src="/img/nasasewpvi.png" class="float-left" alt="Logos reading: NASA SEWP VI Contract Holder - Solutions for Enterprise-Wide Procuremnt" />
 
 The NASA SEWP (Solutions for Enterprise-Wide Procurement), pronounced "soup",
@@ -50,10 +48,11 @@ RFQs, RFIs, etc., for purposes other than proposing on SEWP requirements. This i
 SEWP information and requirements for the purpose of assisting companies, that are not SEWP Contract Holders, with providing
 unsolicited proposals to meet agency requirements already posted to the NASA SEWP RFQ on-line quoting system.
 
-## Pluribus Digital Contract Information
+## Contract Information
 
-| **Category / SEWP VI Contract Number**  | Category B Contract / 80TECH26D1488 <br /> Category C Contract / 80TECH26D1021|
+|  |  |
 | :--- | :--- |
+| **Category / SEWP VI Contract Number**  | Category B Contract / 80TECH26D1488 <br /> Category C Contract / 80TECH26D1021|
 | **Contract Type**  | GWAC |
 | **POP**  | Nov 2026 - Oct 2036 |
 | **SEWP Surcharge**  | 0.34% |
@@ -65,15 +64,16 @@ unsolicited proposals to meet agency requirements already posted to the NASA SEW
 
 ## How to Contact SEWP
 
-| **SEWP PMO Hours**  | Mon-Fri, 7:30 AM - 6 PM (ET) |
+|  | |
 | :--- | :--- |
+| **SEWP PMO Hours**  | Mon-Fri, 7:30 AM - 6 PM (ET) |
 | **Email**  | help@sewp.nasa.gov |
 | **Customer Help Desk**  | (301) 286-1478 |
 | **Website**  | https://www.sewp.nasa.gov/sewpvi |
 
 
-### Pluribus Digital Ordering Guide
+## Ordering Guide
 
 
- **Ordering Guide Contains:** 
-SEWP Overview, Contact Information, What's in Scope for SEWP VI, [Ordering Process](/files/Ordering-Guide-SEWP-VI-Pluribus.pdf) 
+ **[Ordering Guide](/files/Ordering-Guide-SEWP-VI-Pluribus.pdf) Contains:** 
+SEWP Overview, Fair Opportunity, Contact Information, What's in Scope for SEWP VI, Ordering Process 
