@@ -11,19 +11,25 @@ text=''
 link="/content/work/contract_vehicles/gsa_70"
 corner="" -%}
 
+{%- include component_icon_card.html 
+icon_path="/img/Polaris.png"
+title="GSA Polaris (WOSB)"
+text='' 
+link="https://pluribuspolarisjv.com"
+corner="" -%}
+
+{%- include component_icon_card.html 
+icon_path="/img/nasasewpvi.png"
+title="NASA SEWP VI"
+text='' 
+link="/content/work/contract_vehicles/sewp"
+corner="" -%}
 
 {%- include component_icon_card.html 
 icon_path="/img/ciosp3logo.png"
 title="NITAAC CIO-SP3"
 text='' 
 link="/content/work/contract_vehicles/cio_sp3"
-corner="" -%}
-
-{%- include component_icon_card.html 
-icon_path="/img/Polaris.png"
-title="GSA Polaris (WOSB)"
-text='' 
-link="https://pluribuspolarisjv.com"
 corner="" -%}
 
 {%- include component_icon_card.html 
