@@ -19,7 +19,7 @@ link="https://pluribuspolarisjv.com"
 corner="" -%}
 
 {%- include component_icon_card.html 
-icon_path="/img/nasasewpvi.png"
+icon_path="/img/nasasewpvi-100px.png"
 title="NASA SEWP VI"
 text='' 
 link="/content/work/contract_vehicles/sewp"
