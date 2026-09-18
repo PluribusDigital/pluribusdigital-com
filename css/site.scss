@@ -298,6 +298,19 @@ h2.pd-map-header {
 .pd-blog-card-body {
   padding: 1rem 1.25rem 1.25rem;
 }
+.pd-blog-card-title {
+  text-transform: none;
+  background-image: none;
+  font-weight: bold;
+  margin-top: 0;
+  padding-bottom: 0;
+}
+.pd-blog-card-title a {
+  text-decoration: none;
+}
+.pd-blog-card-title a:hover {
+  text-decoration: underline;
+}
 
 /* Post detail cover image: always fit within the content column,
    never overflow it, and don't let a very short/wide image get too tall. */

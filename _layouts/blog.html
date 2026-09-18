@@ -22,7 +22,7 @@ layout: default
           </a>
         {% endif %}
         <div class="pd-blog-card-body">
-          <h2 class="h4 mb-1 text-left"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+          <h2 class="h4 pd-blog-card-title mb-1 text-left"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
           <p class="text-muted mb-2 small">
             <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
             {% if post.author %}
