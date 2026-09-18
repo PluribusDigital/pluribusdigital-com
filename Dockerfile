@@ -1,9 +1,20 @@
-FROM jekyll/jekyll
+FROM ruby:3.1.7-slim-bookworm
 
-# The following are the same as the base jekyll/jekyll image
-CMD ["jekyll", "--help"]
-ENTRYPOINT ["/usr/jekyll/bin/entrypoint"]
+RUN apt-get update -qq && apt-get install -y --no-install-recommends \
+    build-essential \
+    git \
+    libyaml-dev \
+    zlib1g-dev \
+  && rm -rf /var/lib/apt/lists/*
+
 WORKDIR /srv/jekyll
-VOLUME  /srv/jekyll
-EXPOSE 35729
+
+COPY Gemfile Gemfile.lock ./
+RUN bundle install
+
+COPY . .
+
 EXPOSE 4000
+EXPOSE 35729
+
+CMD ["bundle", "exec", "ruby", "docker/jekyll_serve.rb"]

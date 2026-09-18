@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(/opt/homebrew/bin/brew install *)"
+      "Bash(/opt/homebrew/bin/brew install *)",
+      "Bash(docker info *)"
     ]
   }
 }

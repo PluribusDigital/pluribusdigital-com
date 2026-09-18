@@ -75,17 +75,25 @@ We also have a convenience script to run the server:
 bash start.sh
 ```
 
-It is recommended that you use version managers for node and ruby - e.g. RVM, NVM.
+It is recommended that you use version managers for node and ruby - e.g. RVM, NVM, or
+[rbenv](https://github.com/rbenv/rbenv).
+
+_Note: this repo's `.ruby-version` pins Ruby to `3.1.x`. `github-pages`'s Jekyll/Liquid
+dependencies break on Ruby 3.2+. If you hit build errors, especially on Apple Silicon Macs, see
+[TROUBLESHOOTING.md](TROUBLESHOOTING.md) before digging further — or just use Docker below,
+which sidesteps all of it._
 
 ### Running With Docker
 
-_Your mileage may vary... the Docker approach has had mixed results, and any PR to iron this out would be appreciated._
-
-Make sure [Docker is installed](https://www.docker.com/products/docker-desktop).
+Make sure [Docker is installed](https://www.docker.com/products/docker-desktop), then:
 
 ```bash
-docker-compose up
+docker compose up --build
 ```
+
+The container runs a Ruby version pinned to match `.ruby-version`/`Gemfile.lock`, so it should
+always match what GitHub Pages actually builds. This is the easiest way to get a working local
+build without setting up a native Ruby toolchain.
 
 The app should now be available at: http://localhost:4000/
 
