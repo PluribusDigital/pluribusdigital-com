@@ -1,6 +1,6 @@
 ---
 name: verify-content-change
-description: Verify a pluribusdigital-com content or template change: run the Jekyll site locally, confirm the affected page renders correctly, and publish a screenshot gallery at mobile/medium/full breakpoints. Propose a checkpoint commit at each verified step and wait for the user to confirm before committing. Before making the final commit that gets a branch ready to push, ask the user whether they're ready — only then regenerate the purged CSS build if styles changed, spell-check and accessibility-check the new content, surface anything the checks find, and commit. Use this proactively — as the default follow-through, not only when asked — after any edit to a `_content/*.md`, `content/*.md`, `_includes/*.html`, `_layouts/*.html`, or `css/*.css` file in this repo, and before telling the user a site change is done. Trigger on requests like "add a link to the contact page," "update the homepage copy," "change this button style," or "tweak the CSS" — anything that changes what a visitor sees on pluribusdigital-com.
+description: Verify a pluribusdigital-com content or template change: at the outset, suggest and confirm a branch name and switch to it, then run the Jekyll site locally, confirm the affected page renders correctly, and publish a screenshot gallery at mobile/medium/full breakpoints. Propose a checkpoint commit at each verified step and wait for the user to confirm before committing. Before making the final commit that gets a branch ready to push, ask the user whether they're ready — only then regenerate the purged CSS build if styles changed, spell-check and accessibility-check the new content, surface anything the checks find, and commit. Use this proactively — as the default follow-through, not only when asked — after any edit to a `_content/*.md`, `content/*.md`, `_includes/*.html`, `_layouts/*.html`, or `css/*.css` file in this repo, and before telling the user a site change is done. Trigger on requests like "add a link to the contact page," "update the homepage copy," "change this button style," or "tweak the CSS" — anything that changes what a visitor sees on pluribusdigital-com.
 ---
 
 # Verify a pluribusdigital-com content change
@@ -14,6 +14,27 @@ application code.
 
 Only skip this when the change has no rendered effect (e.g. editing a README, a redirect
 target that isn't live yet, or `.claude/` config).
+
+## 0. Suggest and confirm a branch name, then switch to it
+
+Before touching any files, check what branch you're on (`git branch --show-current`).
+CLAUDE.md's workflow is branch → commit → PR → merge, and every content change is meant to
+land on its own branch, not accumulate on whatever branch happens to be checked out
+(including `main` or a generic default branch like `claude`).
+
+If the current branch already looks purpose-built for this change (was created for this
+same task, e.g. earlier in the same session), no need to make a new one — just confirm and
+proceed. Otherwise, propose a short, descriptive kebab-case branch name based on the
+requested change (e.g. `contact-page-parking-link`, `homepage-copy-update`,
+`blog-migration`), ask the user to confirm or adjust it, and once confirmed:
+
+```bash
+git checkout -b <branch-name>
+```
+
+If there are already uncommitted changes on the current branch when this comes up (e.g.
+the user asks mid-task to move the work over), `git checkout -b` carries the working tree
+changes to the new branch automatically — no stash needed. Do this before step 1.
 
 ## 1. Start the site
 
