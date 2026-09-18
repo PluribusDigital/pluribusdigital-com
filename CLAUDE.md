@@ -20,8 +20,9 @@ editing the site correctly.
   subfolder so each section can use its own layout.
 - `content/*.md` (no underscore) — simple interior pages. Directory structure mirrors the URL path.
 - `/index.md` + `_layouts/home.html` — home page.
-- Blog content is hosted on Medium, not in this repo (see README's Blog Content section) — don't
-  try to add blog posts as files here.
+- `_posts/*.md` — blog posts, rendered at `/posts` (listing, paginated) and `/posts/:title/`
+  (individual post), via `_layouts/blog.html` and `_layouts/post.html`. See README's Blog Content
+  section for front matter conventions (`author`, `excerpt`, optional `_data/authors.yml` entry).
 - Every content page needs YAML front-matter (`layout`, `title`, `nav_highlight`, optional
   `permalink`, etc.) — copy an existing page as a starting template rather than writing it from
   scratch.

@@ -1,0 +1,17 @@
+# Optional enrichment for post bylines.
+#
+# A post sets `author: "Some Name"` in its front matter. If that name matches
+# a key here, the post layout uses the title/photo below alongside the name.
+# If there's no match, the post still renders fine with just the plain name.
+Jessica Morris:
+  title: CEO
+  photo: /img/team/JessicaM.jpg
+# Titles are intentionally omitted below - these authors' roles changed
+# across the posts they wrote, so we show name + photo only rather than
+# risk showing a title that wasn't accurate when a given post was written.
+Ben Morris:
+  photo: /img/team/BenM.png
+Halai Shukran:
+  photo: /img/team/HalaiS.jpg
+Kristina Parrill:
+  photo: /img/team/KristinaP.jpg

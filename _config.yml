@@ -22,8 +22,26 @@ url: "https://pluribusdigital.com" # the base hostname & protocol for your site,
 
 # Build settings
 markdown: kramdown
-# plugins:
-#   - jekyll-feed
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+
+paginate: 6
+paginate_path: "/posts/page:num/"
+
+permalink: /posts/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      nav_highlight: blog
+  - scope:
+      path: "posts"
+    values:
+      nav_highlight: blog
 
 collections:
   content:
