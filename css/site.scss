@@ -265,20 +265,45 @@ h2.pd-map-header {
 }
 
 /* BLOG */
-.pd-blog-list-item:first-child {
-  border-top: 0 !important;
-  padding-top: 0 !important;
-}
 .pd-blog-author-photo {
   width: 48px;
   height: 48px;
   object-fit: cover;
 }
-.pd-blog-list-thumb {
-  max-height: 220px;
-  width: auto;
+
+.pd-blog-card {
+  display: flex;
+  flex-direction: column;
+  background: #fff;
+  border: 1px solid #e5e5e5;
+  border-radius: 6px;
+  overflow: hidden;
 }
+@media (min-width: 768px) {
+  .pd-blog-card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.05), 0 6px 20px 0 rgba(0, 0, 0, 0.05);
+  }
+}
+.pd-blog-card-img-wrap {
+  display: block;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  background: #f4f4f4;
+}
+.pd-blog-card-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.pd-blog-card-body {
+  padding: 1rem 1.25rem 1.25rem;
+}
+
+/* Post detail cover image: always fit within the content column,
+   never overflow it, and don't let a very short/wide image get too tall. */
 .pd-blog-post-img {
+  display: block;
+  max-width: 100%;
+  height: auto;
   max-height: 420px;
-  width: auto;
 }
