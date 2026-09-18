@@ -10,6 +10,9 @@ editing the site correctly.
 
 - Branch (or fork) → commit → PR → merge. Never push directly to `main`.
 - Run locally before trusting a change, especially anything touching HTML/CSS/JS.
+- Every PR gets an automatic live preview (see README's "PR Previews" section) — built and
+  published to a separate `pluribusdigital-com-preview` repo, linked via a PR comment.
+  Production's own build/deploy is untouched by this.
 
 ## Content model
 
