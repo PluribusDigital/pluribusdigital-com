@@ -142,6 +142,45 @@ We can do a client-side redirect by using the redirect template. To do so put a 
 
 _An explanation of the approach is here: https://superdevresources.com/redirects-jekyll-github-pages/_
 
+## PR Previews
+
+Every pull request gets its own live preview, built and deployed automatically by
+`.github/workflows/pr-preview.yml`, at:
+
+```text
+https://pluribusdigital.github.io/pluribusdigital-com-preview/pr-<PR number>/
+```
+
+The workflow comments that link on the PR once the first build finishes, and updates the
+same comment on every subsequent push. The preview is removed automatically when the PR is
+closed or merged.
+
+Production is completely unaffected by this - it still deploys the way it always has
+(GitHub Pages building `main` directly). The preview build publishes to a __separate__
+repo, [`pluribusdigital-com-preview`](https://github.com/PluribusDigital/pluribusdigital-com-preview),
+so there's no risk of a PR preview interfering with the live site.
+
+### Why a separate repo, and why paths get rewritten
+
+A preview necessarily lives under a subpath (`/pluribusdigital-com-preview/pr-42/`), but
+this site's templates and content use root-absolute paths everywhere (`/img/...`,
+`/css/...`, `href="/story"`, etc.) rather than Jekyll's baseurl-aware `relative_url`
+filter - correct for production, which is always served at the domain root, but broken
+under a subpath. Rather than rewrite the site's actual source (which would touch every
+include, layout, and content page, and would make simple content edits require Jekyll/Liquid
+knowledge - directly against this repo's goal of keeping `content/*.md` edits simple),
+the workflow runs `scripts/rewrite_preview_paths.py` against the __already-built__ `_site/`
+output before publishing it. Production's build and source are never touched by this.
+
+### One-time setup (already done if this section didn't need updating)
+
+1. Create the `PluribusDigital/pluribusdigital-com-preview` repo - public, no custom domain.
+2. Enable GitHub Pages on it: Settings > Pages > Source: Deploy from a branch > `gh-pages`.
+3. Generate an SSH deploy key (`ssh-keygen -t ed25519 -C "pluribusdigital-com-preview deploy" -f preview-deploy-key -N ""`):
+   add the public half (`preview-deploy-key.pub`) to `pluribusdigital-com-preview`'s
+   Settings > Deploy keys with __Allow write access__ checked, and the private half
+   (`preview-deploy-key`) as a secret named `PREVIEW_DEPLOY_KEY` on _this_ repo (Settings >
+   Secrets and variables > Actions). Delete the local key files after both are uploaded.
 
 ## Blog Content
 

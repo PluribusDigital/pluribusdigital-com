@@ -1,0 +1,108 @@
+name: PR Preview
+
+# Builds this site for each pull request and publishes it to a subfolder on
+# the pluribusdigital-com-preview repo's gh-pages branch, so reviewers can
+# see the change live before it merges. Production deploys are untouched -
+# GitHub Pages keeps building main -> pluribusdigital.com exactly as it
+# always has.
+#
+# One-time setup required before this workflow can run (see README.md's
+# "PR Previews" section):
+#   1. Create the PluribusDigital/pluribusdigital-com-preview repo (public,
+#      no custom domain) and enable GitHub Pages on it, source: gh-pages
+#      branch.
+#   2. Generate an SSH deploy key: the public half goes on
+#      pluribusdigital-com-preview as a Deploy Key with write access; the
+#      private half goes on *this* repo as a secret named
+#      PREVIEW_DEPLOY_KEY (Settings > Secrets and variables > Actions).
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, closed]
+
+# Only the latest run for a given PR needs to finish - superseded pushes to
+# the same PR can cancel an in-flight preview build.
+concurrency:
+  group: pr-preview-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+env:
+  PREVIEW_REPO: PluribusDigital/pluribusdigital-com-preview
+  PREVIEW_PATH: pr-${{ github.event.pull_request.number }}
+
+jobs:
+  deploy:
+    if: github.event.action != 'closed'
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.1"
+          bundler-cache: true
+
+      - name: Build site
+        run: bundle exec jekyll build
+
+      - name: Rewrite absolute paths for the preview subpath
+        run: python3 scripts/rewrite_preview_paths.py _site "/${{ env.PREVIEW_PATH }}"
+
+      - name: Publish to preview repo
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          deploy_key: ${{ secrets.PREVIEW_DEPLOY_KEY }}
+          external_repository: ${{ env.PREVIEW_REPO }}
+          publish_branch: gh-pages
+          publish_dir: _site
+          destination_dir: ${{ env.PREVIEW_PATH }}
+          keep_files: true
+          user_name: "github-actions[bot]"
+          user_email: "github-actions[bot]@users.noreply.github.com"
+          commit_message: "Preview for pluribusdigital-com#${{ github.event.pull_request.number }}: ${{ github.event.pull_request.title }}"
+
+      - name: Comment preview link on the PR
+        uses: marocchino/sticky-pull-request-comment@v2
+        with:
+          header: pr-preview
+          message: |
+            :rocket: Preview deployed: https://pluribusdigital.github.io/pluribusdigital-com-preview/${{ env.PREVIEW_PATH }}/
+
+            Updates automatically on every push to this PR.
+
+  cleanup:
+    if: github.event.action == 'closed'
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+    steps:
+      - name: Load deploy key into ssh-agent
+        uses: webfactory/ssh-agent@v0.9.0
+        with:
+          ssh-private-key: ${{ secrets.PREVIEW_DEPLOY_KEY }}
+
+      - name: Remove preview folder
+        run: |
+          mkdir -p ~/.ssh
+          ssh-keyscan github.com >> ~/.ssh/known_hosts 2>/dev/null
+          git clone --depth 1 --branch gh-pages \
+            "git@github.com:${PREVIEW_REPO}.git" preview-repo
+          cd preview-repo
+          if [ -d "${PREVIEW_PATH}" ]; then
+            git rm -r --quiet "${PREVIEW_PATH}"
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git commit -m "Remove preview for pluribusdigital-com#${{ github.event.pull_request.number }}"
+            git push
+          else
+            echo "No preview folder for ${PREVIEW_PATH}, nothing to clean up."
+          fi
+
+      - name: Update PR comment
+        uses: marocchino/sticky-pull-request-comment@v2
+        with:
+          header: pr-preview
+          message: |
+            :wastebasket: Preview removed (PR closed).
