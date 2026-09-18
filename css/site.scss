@@ -295,6 +295,21 @@ h2.pd-map-header {
   height: 100%;
   object-fit: cover;
 }
+/* Small source images (e.g. a logo/seal well under tile size) shouldn't be
+   stretched past their native resolution - that just looks blurry. Instead,
+   keep the standard tile footprint but show the image at its own size,
+   centered on the tile's neutral background. */
+.pd-blog-card-img-wrap--native {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pd-blog-card-img--native {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+}
 .pd-blog-card-body {
   padding: 1rem 1.25rem 1.25rem;
 }
@@ -302,6 +317,7 @@ h2.pd-map-header {
   text-transform: none;
   background-image: none;
   font-weight: bold;
+  font-size: 1.35rem;
   margin-top: 0;
   padding-bottom: 0;
 }
@@ -319,4 +335,14 @@ h2.pd-map-header {
   max-width: 100%;
   height: auto;
   max-height: 420px;
+}
+
+/* Any image within the post body content (not just the cover) should
+   also never overflow the content column, and gets a little breathing
+   room since it's inline with surrounding paragraphs. */
+.pd-blog-post img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5rem auto;
 }
