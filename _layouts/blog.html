@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<section class="container py-4 py-md-5 pd-blog-list">
+  {% if page.lead_text %}
+  <p class="lead mt-0">
+    <strong>{{ page.lead_text }}</strong>
+  </p>
+  {% endif %}
+
+  {{ content }}
+
+  {% for post in paginator.posts %}
+    {% assign author_info = site.data.authors[post.author] %}
+    <article class="pd-blog-list-item py-4 border-top">
+      <p class="text-muted mb-1">
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+        {% if post.author %}
+          &middot; by {{ post.author }}{% if author_info.title %}, {{ author_info.title }}{% endif %}
+        {% endif %}
+      </p>
+      <h2 class="h3"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      {% if post.excerpt %}
+        <p>{{ post.excerpt | strip_html | truncatewords: 40 }}</p>
+      {% endif %}
+      <a href="{{ post.url | relative_url }}">Read more: {{ post.title }}</a>
+    </article>
+  {% endfor %}
+
+  {% if paginator.total_pages > 1 %}
+  <nav aria-label="Blog pagination" class="pd-blog-pagination d-flex justify-content-between pt-4">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | relative_url }}">Newer posts</a>
+    {% else %}
+      <span></span>
+    {% endif %}
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | relative_url }}">Older posts</a>
+    {% endif %}
+  </nav>
+  {% endif %}
+</section>

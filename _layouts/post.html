@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+{% assign author_info = site.data.authors[page.author] %}
+
+<article class="container py-4 py-md-5 pd-blog-post">
+  <header class="mb-4 d-flex align-items-center">
+    {% if author_info.photo %}
+      <img src="{{ author_info.photo }}" alt="Photo of {{ page.author }}" class="pd-blog-author-photo rounded-circle mr-3" />
+    {% endif %}
+    <p class="text-muted mb-0">
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+      {% if page.author %}
+        &middot; by {{ page.author }}{% if author_info.title %}, {{ author_info.title }}{% endif %}
+      {% endif %}
+    </p>
+  </header>
+
+  {{ content }}
+</article>

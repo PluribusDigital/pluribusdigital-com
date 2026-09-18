@@ -263,3 +263,14 @@ h2.pd-map-header {
   font-size: 1rem;
   background: none;
 }
+
+/* BLOG */
+.pd-blog-list-item:first-child {
+  border-top: 0 !important;
+  padding-top: 0 !important;
+}
+.pd-blog-author-photo {
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+}
