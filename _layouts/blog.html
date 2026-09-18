@@ -20,6 +20,11 @@ layout: default
           &middot; by {{ post.author }}{% if author_info.title %}, {{ author_info.title }}{% endif %}
         {% endif %}
       </p>
+      {% if post.image %}
+        <a href="{{ post.url | relative_url }}">
+          <img src="{{ post.image }}" alt="{{ post.image_alt | default: post.title }}" class="pd-blog-list-thumb img-fluid mb-2" />
+        </a>
+      {% endif %}
       <h2 class="h3"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
       {% if post.excerpt %}
         <p>{{ post.excerpt | strip_html | truncatewords: 40 }}</p>

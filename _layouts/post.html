@@ -17,5 +17,9 @@ layout: default
     </p>
   </header>
 
+  {% if page.image %}
+    <img src="{{ page.image }}" alt="{{ page.image_alt | default: '' }}" class="pd-blog-post-img img-fluid mb-4" />
+  {% endif %}
+
   {{ content }}
 </article>
