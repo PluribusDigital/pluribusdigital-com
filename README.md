@@ -110,11 +110,22 @@ The site uses bootstrap 4.x as the baseline set of styles, and many of the built
 
 ### Managing CSS
 
-To trim unused CSS, we can use purgecss. This allows us to only serve up the css classes that are really needed. This looks at the file in the `css/vendor/` directory, then writes a version into `css/build` that only includes css classess actually used in the code.
+To trim unused CSS, we use purgecss. This looks at the file in the `css/vendor/` directory,
+scans the actual content/template source for which classes are used, and writes a trimmed
+version into `css/build` containing only those.
 
 ```bash
 bash prepcss.sh
 ```
+
+`prepcss.sh` runs purgecss via `npx`, so no global install is needed — just a reasonably
+current Node (18+; `nvm use` picks up the version pinned in `.nvmrc` if you use nvm). The
+`--content` patterns are quoted so purgecss's own glob engine expands them, not the shell —
+this matters because macOS's default `bash` doesn't support recursive `**` globbing at all,
+which previously caused two-directory-deep content (e.g. `content/join/benefits.md`) to be
+silently skipped, letting purgecss strip classes that page actually used. The patterns are
+also scoped to the real content directories rather than the whole repo root, so a leftover
+local `_site/` or `vendor/bundle/` build directory can never leak into the scan.
 
 Reference the appropriate file in `_includes/template_meta.html`, using the `css/vendor` or `css/build` path. If you are actively playing with styles, use the file in `vendor/` and then switch back when done.
 
@@ -124,11 +135,6 @@ Reference the appropriate file in `_includes/template_meta.html`, using the `css
   rel="stylesheet"
 />
 ```
-
-### Purgecss install
-
-* Install/use node `12.18.x` (simply `nvm use` if running nvm)
-* Install purgecss `npm i -g purgecss`
 
 ## Redirects
 
