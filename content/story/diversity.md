@@ -45,8 +45,6 @@ Resources:
 
 [2020 US Census Data for Ethnicity](https://www.census.gov/programs-surveys/decennial-census/decade/2020/2020-census-results.html) 
 
-[EEOC Report Tech Sector 2014-2022](https://www.eeoc.gov/special-report/high-tech-low-inclusion-diversity-high-tech-workforce-and-sector-2014-2022)
-
 [EEOC Study Tech Sector](https://njbia.org/eeoc-study-finds-unequal-opportunity-lack-of-diversity-in-high-tech-sector)
 
 [EEOC POC in Tech Sector](https://perscholas.org/news/people-of-color-in-tech-empowering-diversity/)
