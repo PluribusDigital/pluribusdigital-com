@@ -20,7 +20,7 @@ There are 3 types of content stored in different directories:
 
 * `/index.md` and `layouts/home.html` control the home page content.
 
-* __Blog__ content is hosted via Medium.com. Additional detail is in the below section.
+* __Blog__ content lives in `_posts/` as regular Jekyll posts, rendered at `/posts`. Additional detail is in the below section.
 
 ### Easy vs. Hard Changes
 
@@ -184,37 +184,37 @@ output before publishing it. Production's build and source are never touched by 
 
 ## Blog Content
 
-To contribute blog content, you need to setup an account and be associated as an author for the Pluribus "publication." Then you can draft and submit stories.
+Blog content lives in this repo as regular Jekyll posts — it's no longer hosted on Medium.
 
-### Medium Account & Association
+### Writing & Submitting a Post
 
-1. Create an account at Medium.com
-2. Add appropriate profile info including a photo
-3. Provide your Medium username to an editor to be added to the publication. There are two roles in medium:
-    * `writer`: writes articles, but can't publish them 
-    * `editor`: can edit submitted articles and publish, as well as add other users
+1. Add a new file to `_posts/` named `YYYY-MM-DD-a-url-friendly-slug.md`, using today's date (or the date you want it to publish/sort under).
+2. Add front matter and content:
 
+    ```yaml
+    ---
+    title: "Your Post Title"
+    author: Jane Doe
+    excerpt: >-
+      A sentence or two summarizing the post. Shows on the /posts listing page
+      and in the RSS feed.
+    ---
 
-#### By-lines and "Editors" Account
+    Your post content, in Markdown, starts here.
+    ```
 
-Medium attributes each story (the "by-line") to the author based on their account information. We have created an "editors" account when we want the article to be written as the company vs. an individual person. The guidance on using those is:
-
-* Use the individual account (`@jane_doe`) to write and submit the article when it is meant to be from that person. This could be a technical how-to, an individual perspective, or some other article where it makes sense to be from an individual.
-* Use the editors account (`@pluribusdigital_editors`) to write and submit the article when it makes more sense to be from the company generally. This could be news announcements, or some article with many authors or perspectives.
-
-### Writing & Submitting Articles
-
-1. Login to medium.com
-2. Select your profile image at the top-right of the screen
-3. Select **New Story** from the menu
-4. Begin to draft the article (see conventions below)
-5. At some point before publishing
-    * select the **ellipses (...)** next to the *Publish* button
-    * select **Add to Publication**
-    * select **PluribusDigital**
-    * **Select and Continue**
-6. **Submit** the article
-7. Let an editor know that the article is available for review & publishing
+    * `author` is a plain name. If it matches an entry in `_data/authors.yml`, the post byline
+      will also show that author's title (and photo, if set). If there's no matching entry, the
+      post still renders fine with just the name.
+    * Use your own name for a technical how-to, an individual perspective, or anything else that
+      reads as coming from you personally.
+    * Use `Pluribus Digital` as the author for news announcements or posts with many
+      contributors/no single individual voice — this is the equivalent of Medium's old "editors"
+      account.
+3. Run the site locally (see __Running Locally__ above) and confirm the post renders correctly at
+   `/posts` and at its own URL.
+4. Open a PR. Once merged, the post goes live at `https://pluribusdigital.com/posts/your-slug/`
+   within about a minute, and appears in the `/posts` listing and `/feed.xml` RSS feed.
 
 ### Blog Conventions
 

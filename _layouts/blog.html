@@ -1,0 +1,63 @@
+---
+layout: default
+---
+
+<section class="container py-4 py-md-5 pd-blog-list">
+  {% if page.lead_text %}
+  <p class="lead mt-0 text-left">
+    <strong>{{ page.lead_text }}</strong>
+  </p>
+  {% endif %}
+
+  {{ content }}
+
+  <div class="row">
+  {% for post in paginator.posts %}
+    {% assign author_info = site.data.authors[post.author] %}
+    {% assign tile_image = post.image %}
+    {% assign tile_image_alt = post.image_alt | default: post.title %}
+    {% unless tile_image %}
+      {% comment %} No cover image set - fall back to the first image found in the post body. {% endcomment %}
+      {% assign src_parts = post.content | split: 'src="' %}
+      {% if src_parts.size > 1 %}
+        {% assign tile_image = src_parts[1] | split: '"' | first %}
+        {% assign tile_image_alt = post.title %}
+      {% endif %}
+    {% endunless %}
+    <div class="col-md-6 mb-4">
+      <article class="pd-blog-card h-100">
+        {% if tile_image %}
+          <a href="{{ post.url | relative_url }}" class="pd-blog-card-img-wrap{% if post.image_small %} pd-blog-card-img-wrap--native{% endif %}">
+            <img src="{{ tile_image }}" alt="{{ tile_image_alt }}" class="pd-blog-card-img{% if post.image_small %} pd-blog-card-img--native{% endif %}" />
+          </a>
+        {% endif %}
+        <div class="pd-blog-card-body">
+          <h2 class="h4 pd-blog-card-title mb-1 text-left"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+          <p class="text-muted mb-2 small">
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+            {% if post.author %}
+              &middot; {{ post.author }}{% if author_info.title %}, {{ author_info.title }}{% endif %}
+            {% endif %}
+          </p>
+          {% if post.excerpt %}
+            <p class="mb-0">{{ post.excerpt | strip_html | truncatewords: 24 }}</p>
+          {% endif %}
+        </div>
+      </article>
+    </div>
+  {% endfor %}
+  </div>
+
+  {% if paginator.total_pages > 1 %}
+  <nav aria-label="Blog pagination" class="pd-blog-pagination d-flex justify-content-between pt-4">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | relative_url }}">Newer posts</a>
+    {% else %}
+      <span></span>
+    {% endif %}
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | relative_url }}">Older posts</a>
+    {% endif %}
+  </nav>
+  {% endif %}
+</section>
